@@ -33,23 +33,25 @@ namespace LiqwidsDB.Resources
         [Required]
         public string ActivityID { get; set; }
         [Required]
-        public int CharacteristicTypeID { get; set; }
+        public int? CharacteristicTypeID { get; set; }
         //[Required] characteristic specific
-        public int MethodSpeciationTypeID { get; set; }
-        [RequiredIf("Value", null)]
-        public int DetectionConditionTypeID { get; set; }
+        public int? MethodSpeciationTypeID { get; set; }
+        [RequiredIf("Value", requiredIfenum.isNull)]//required if value is null
+        public int DetectionConditionTypeID { get; set; } 
         public double Value { get; set; }
-        [RequiredIf("Value", null)]
+        [RequiredIf("Value", , requiredIfenum.isNotNull)]// required if value is present
         public int UnitTypeID { get; set; }
         [Required]
         public int MeasureQualifierID { get; set; }
-        [RequiredIf("CharacteristicTypeID",null)]
+        //[RequiredIf("CharacteristicTypeID",new int[] {1,2,3,4})]//required for specific characteristics
         public int SampleFractionTypeID { get; set; }
-        [RequiredIf("Value", null)]
+        [RequiredIf("Value", requiredIfenum.isNotNull)]// required if value is not null
         public int StatusTypeID { get; set; }
         public int StatisticalBaseCodeID { get; set; }
-        public int ValueTypeID { get; set; }
-        public int AnalyticalMethodID { get; set; }
+
+        [RequiredIf("Value", requiredIfenum.isNotNull)]// required if value is not null
+        public int ValueTypeID { get; set; }//Default is actual
+        public int AnalyticalMethodID { get; set; }//required if analytical block is reported
         public DateTime AnalysisStartDate { get; set; }
         public string Comments { get; set; }
 
@@ -61,9 +63,8 @@ namespace LiqwidsDB.Resources
         public StatisticalBaseType StatisticalBaseType { get; set; }
         public AnalyticalMethodType AnalyticalMethodType { get; set; }
         public UnitType UnitType { get; set; }
-        public DetectionLimit DetectionLimit { get; set; }
+        public DetectionLimit DetectionLimit { get; set; }// -> required if detectionconditiontype is of(Not Detected, present aobe quantification or present and below limit)
         public MeasureQualifierType MeasureQualifierType { get; set; }
         public DetectionConditionType DetectionConditionType { get; set; }
-    }
-    
+    }    
 }

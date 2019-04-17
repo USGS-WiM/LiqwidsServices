@@ -30,7 +30,7 @@ namespace LiqwidsDB.Resources
         [Required]
         public int LimitTypeID { get; set; }
         [Required]
-        public string LimitMeasure { get; set; }
+        public double LimitMeasure { get; set; }
         [Required]
         public int UnitTypeID { get; set; }
 

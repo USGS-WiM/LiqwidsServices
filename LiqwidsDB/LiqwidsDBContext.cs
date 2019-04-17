@@ -26,19 +26,41 @@ using LiqwidsDB.Resources;
 using Microsoft.EntityFrameworkCore.Metadata;
 using System.Collections.Generic;
 using System;
+using System.IO;
+
 //specifying the data provider and connection string
 namespace LiqwidsDB
 {
     public class LiqwidsDBContext:DbContext
     {
-        public DbSet<LiqwidsResource> Liqwids { get; set; }
+        public DbSet<Activity> Activities { get; set; }
+        public DbSet<ActivityType> ActivityTypes { get; set; }
+        public DbSet<AnalyticalMethodType> AnalyticalMethods { get; set; }
+        public DbSet<CharacteristicType> Characteristics { get; set; }
+        public DbSet<CollectionEquipmentType> CollectionEquipment { get; set; }
+        public DbSet<CollectionMethodType> CollectionMethods { get; set; }
+        public DbSet<DetectionConditionType> DetectionConditions { get; set; }
+        public DbSet<DetectionLimit> DetectionLimits { get; set; }
+        public DbSet<HorizontalCollectionMethodType> HorizontalCollectionMethods { get; set; }
+        public DbSet<HorizontalDatumType> HorizontalDatums { get; set; }
+        public DbSet<LimitType> Limits { get; set; }
+        public DbSet<Location> Locations { get; set; }
+        public DbSet<LocationType> LocationTypes { get; set; }
+        public DbSet<MeasureQualifierType> MeasureQualifiers { get; set; }
+        public DbSet<MediaType> MediaTypes { get; set; }
+        public DbSet<MethodSpeciationType> MethodSpeciations { get; set; }
+        public DbSet<Organization> Organizations { get; set; }
+        public DbSet<Project> Projects { get; set; }
+        public DbSet<Result> Results { get; set; }
+        public DbSet<Role> Roles { get; set; }
+        public DbSet<SampleFractionType> SampleFractions { get; set; }
+        public DbSet<StatusType> Status { get; set; }
+        public DbSet<UnitType> Units { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<Resources.ValueType> Values { get; set; }
 
-        public LiqwidsDBContext() : base()
-        {
-        }
-        public LiqwidsDBContext(DbContextOptions<LiqwidsDBContext> options) : base(options)
-        {
-        }
+        public LiqwidsDBContext() : base(){}
+        public LiqwidsDBContext(DbContextOptions<LiqwidsDBContext> options) : base(options){}
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //schema
@@ -57,25 +79,66 @@ namespace LiqwidsDB
             //https://x-team.com/blog/automatic-timestamps-with-postgresql/
             foreach (var entitytype in modelBuilder.Model.GetEntityTypes())
             {
-                //"EquationError","EquationUnitType","RegionManager","RegionRegressionRegion","VariableUnitType" 
-                if (new List<string>() { typeof(LiqwidsResource).FullName}
-                .Contains(entitytype.Name))
-                { continue; }
                 modelBuilder.Entity(entitytype.Name).Property<DateTime>("LastModified");
             }//next entitytype
 
 
             //cascade delete is default, rewrite behavior
-            modelBuilder.Entity(typeof(LiqwidsResource).ToString(), b =>
+            modelBuilder.Entity(typeof(Location).ToString(), b =>
             {
-                b.HasOne(typeof(LiqwidsResource).ToString(), "ErrorType")
+                b.HasOne(typeof(HorizontalCollectionMethodType).ToString(), "HorizontalCollectionMethod")
                     .WithMany()
-                    .HasForeignKey("ErrorTypeID")
+                    .HasForeignKey("HorizontalCollectionMethodTypeID")
                     .OnDelete(DeleteBehavior.Restrict);
+
+                b.HasOne(typeof(HorizontalDatumType).ToString(), "HorizontalDatum")
+                    .WithMany()
+                    .HasForeignKey("HorizontalDatumID")
+                    .OnDelete(DeleteBehavior.Restrict);
+
+                b.HasOne(typeof(LocationType).ToString(), "LocationType")
+                    .WithMany()
+                    .HasForeignKey("LocationTypeID")
+                    .OnDelete(DeleteBehavior.Restrict);
+
             });
 
-            //seed the db
-            //var path = Path.Combine(Environment.CurrentDirectory, "Data");
+            modelBuilder.Entity(typeof(Activity).ToString(), b =>
+            {
+                b.HasOne(typeof(Location).ToString(), "Location")
+                    .WithMany()
+                    .HasForeignKey("LocationID")
+                    .OnDelete(DeleteBehavior.Restrict);
+
+                b.HasOne(typeof(ActivityType).ToString(), "ActivityType")
+                    .WithMany()
+                    .HasForeignKey("ActivityTypeID")
+                    .OnDelete(DeleteBehavior.Restrict);
+
+                b.HasOne(typeof(CollectionMethodType).ToString(), "CollectionMethodType")
+                    .WithMany()
+                    .HasForeignKey("CollectionMethodTypeID")
+                    .OnDelete(DeleteBehavior.Restrict);
+
+                b.HasOne(typeof(MediaType).ToString(), "MediaType")
+                    .WithMany()
+                    .HasForeignKey("MediaTypeID")
+                    .OnDelete(DeleteBehavior.Restrict);
+
+                b.HasOne(typeof(CollectionEquipmentType).ToString(), "CollectionEquipmentType")
+                    .WithMany()
+                    .HasForeignKey("CollectionEquipmentTypeID")
+                    .OnDelete(DeleteBehavior.Restrict);
+
+                b.HasOne(typeof(Project).ToString(), "Project")
+                    .WithMany()
+                    .HasForeignKey("ProjectID")
+                    .OnDelete(DeleteBehavior.Restrict);
+
+            });
+
+                //seed the db
+                var path = Path.Combine(Environment.CurrentDirectory, "Data");
             //modelBuilder.Entity<LiqwidsResource>().HasData(JsonConvert.DeserializeObject<LiqwidsResource[]>(File.ReadAllText(Path.Combine(path, "Liqwids.json"))));
 
 

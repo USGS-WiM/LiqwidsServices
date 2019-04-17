@@ -29,8 +29,11 @@ namespace LiqwidsDB.Resources
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { get; set; }
         [Required]
-        public string Name { get; set; }
+        public string Identifier { get; set; }
         [Required]
+        public string Context { get; set; }
+        [Required]
+        public string Name { get; set; }
         public string Description { get; set; }
     }
 }

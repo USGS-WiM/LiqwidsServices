@@ -18,6 +18,7 @@
 //
 //     
 
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -36,22 +37,24 @@ namespace LiqwidsDB.Resources
         public string Longitude { get; set; }
         [Required]
         public int HorizontalCollectionMethodTypeID { get; set; }
-        [RequiredIf("HorizontalCollectionMethodTypeID",1)] //1:interpolation map
+        [RequiredIf("HorizontalCollectionMethodTypeID",requiredIfenum.isValue,1)] //1:interpolation map
         public double MapScale { get; set; }
         [Required]
+        public int HorizontalDatumID { get; set; }
+        [Required]
         public string Name { get; set; }
-        [Required]
+        [Required][MaxLength(2)]
         public string FIPSStateID { get; set; }
-        [Required]
+        [Required][MaxLength(3)]
         public string FIPSCountyID { get; set; }
         [Required]
         public int LocationTypeID { get; set; }
         public bool? OnTribalLand { get; set; }
-        [RequiredIf("OnTribalLand",true)]
+        [RequiredIf("OnTribalLand", requiredIfenum.isValue, true)]
         public string TribalLandName { get; set; }
         public string Comments { get; set; }
 
-        public HorizontalCollectionMethodType GetHorizontalCollectionMethod { get; set; }
+        public HorizontalCollectionMethodType HorizontalCollectionMethod { get; set; }
         public HorizontalDatumType HorizontalDatum { get; set; }
         public LocationType LocationType { get; set; }
         public ICollection<Activity> Activities { get; set; }

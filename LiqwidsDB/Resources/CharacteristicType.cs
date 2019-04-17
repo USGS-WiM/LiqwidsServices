@@ -31,7 +31,6 @@ namespace LiqwidsDB.Resources
         public int ID { get; set; }
         [Required]
         public string Name { get; set; }
-        [Required]
         public string Description { get; set; }
 
         public ICollection<MethodSpeciationType> MethodSpeciations { get; set; }
