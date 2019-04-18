@@ -44,10 +44,10 @@ namespace LiqwidsDB.Resources
         [Required]
         public int ActivityTypeID { get; set; }
         [Required]
-        public int MediaTypeID { get; set; }
-        public int CollectionMethodTypeID { get; set; }
-        [RequiredIf("CollectionMethodTypeID",requiredIfenum.isNotNull)]//required if sample collection method is not null
-        public int CollectionEquipmentTypeID { get; set; }
+        public int MediaID { get; set; }
+        public int CollectionMethodID { get; set; }
+        [RequiredIf("CollectionMethodID",requiredIfenum.isNotNull)]//required if sample collection method is not null
+        public int CollectionEquipmentID { get; set; }
         public string EquipmentComment { get; set; }
         public double DepthHeightValue { get; set; }
         [RequiredIf("DepthHeightValue", requiredIfenum.isNotNull)]//required if depth height value is not null
@@ -56,9 +56,9 @@ namespace LiqwidsDB.Resources
         public Location Location { get; set; }
         public Project Project { get; set; }
         public ActivityType ActivityType { get; set; }
-        public MediaType MediaType { get; set; }
-        public CollectionMethodType CollectionMethodType { get; set; }
-        public CollectionEquipmentType CollectionEquipmentType { get; set; }
+        public Media Media { get; set; }
+        public CollectionMethod CollectionMethod { get; set; }
+        public CollectionEquipment CollectionEquipment { get; set; }
 
         public ICollection<Result> Results { get; set; }
     }

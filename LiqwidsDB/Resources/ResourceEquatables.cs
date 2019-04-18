@@ -35,8 +35,8 @@ namespace LiqwidsDB.Resources
                 String.Equals(this.UniversalUniqueID, other.UniversalUniqueID) &&
                 DateTime.Equals(this.StartDateTime,other.StartDateTime) &&
                 this.ProjectID == other.ProjectID && this.ActivityTypeID==other.ActivityTypeID &&
-                this.MediaTypeID == other.MediaTypeID && this.CollectionMethodTypeID == other.CollectionMethodTypeID &&
-                this.CollectionEquipmentTypeID == other.CollectionEquipmentTypeID;
+                this.MediaID == other.MediaID && this.CollectionMethodID == other.CollectionMethodID &&
+                this.CollectionEquipmentID == other.CollectionEquipmentID;
 
         }
         public override bool Equals(object obj)
@@ -49,8 +49,8 @@ namespace LiqwidsDB.Resources
         public override int GetHashCode()
         {
             return (this.LocationID + UniversalUniqueID + this.StartDateTime + 
-                    this.ProjectID + this.ActivityTypeID + this.MediaTypeID + 
-                    this.CollectionEquipmentTypeID + this.CollectionMethodTypeID).GetHashCode();
+                    this.ProjectID + this.ActivityTypeID + this.MediaID + 
+                    this.CollectionEquipmentID + this.CollectionMethodID).GetHashCode();
         }
     }
     public partial class ActivityType : IEquatable<ActivityType>
@@ -72,9 +72,9 @@ namespace LiqwidsDB.Resources
             return (this.Name).GetHashCode();
         }
     }
-    public partial class AnalyticalMethodType : IEquatable<AnalyticalMethodType>
+    public partial class AnalyticalMethod : IEquatable<AnalyticalMethod>
     {
-        public bool Equals(AnalyticalMethodType other)
+        public bool Equals(AnalyticalMethod other)
         {
             return String.Equals(this.Identifier, other.Identifier) &&
                 string.Equals(this.Context,other.Context);
@@ -85,16 +85,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as AnalyticalMethodType);
+            return Equals(obj as AnalyticalMethod);
         }
         public override int GetHashCode()
         {
             return (this.Identifier+this.Context).GetHashCode();
         }
     }
-    public partial class CharacteristicType : IEquatable<CharacteristicType>
+    public partial class Characteristic : IEquatable<Characteristic>
     {
-        public bool Equals(CharacteristicType other)
+        public bool Equals(Characteristic other)
         {
             return String.Equals(this.Name, other.Name);
 
@@ -104,16 +104,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as CharacteristicType);
+            return Equals(obj as Characteristic);
         }
         public override int GetHashCode()
         {
             return (this.Name).GetHashCode();
         }
     }
-    public partial class CollectionEquipmentType : IEquatable<CollectionEquipmentType>
+    public partial class CollectionEquipment : IEquatable<CollectionEquipment>
     {
-        public bool Equals(CollectionEquipmentType other)
+        public bool Equals(CollectionEquipment other)
         {
             return String.Equals(this.Name, other.Name);
 
@@ -123,16 +123,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as CollectionEquipmentType);
+            return Equals(obj as CollectionEquipment);
         }
         public override int GetHashCode()
         {
             return (this.Name).GetHashCode();
         }
     }
-    public partial class CollectionMethodType : IEquatable<CollectionMethodType>
+    public partial class CollectionMethod : IEquatable<CollectionMethod>
     {
-        public bool Equals(CollectionMethodType other)
+        public bool Equals(CollectionMethod other)
         {
             return String.Equals(this.Identifier, other.Identifier)&&
                 string.Equals(this.Context,other.Context)&&
@@ -144,16 +144,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as CollectionMethodType);
+            return Equals(obj as CollectionMethod);
         }
         public override int GetHashCode()
         {
             return (this.Identifier+this.Context+this.Name).GetHashCode();
         }
     }
-    public partial class DetectionConditionType : IEquatable<DetectionConditionType>
+    public partial class DetectionCondition : IEquatable<DetectionCondition>
     {
-        public bool Equals(DetectionConditionType other)
+        public bool Equals(DetectionCondition other)
         {
             return String.Equals(this.Name, other.Name);
 
@@ -163,7 +163,7 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as DetectionConditionType);
+            return Equals(obj as DetectionCondition);
         }
         public override int GetHashCode()
         {
@@ -175,8 +175,8 @@ namespace LiqwidsDB.Resources
         public bool Equals(DetectionLimit other)
         {
             return this.ResultID == other.ResultID &&
-                this.LimitTypeID == other.LimitTypeID &&
-                this.UnitTypeID == other.UnitTypeID &&
+                this.LimitID == other.LimitID &&
+                this.UnitID == other.UnitID &&
                 this.LimitMeasure == other.LimitMeasure;
 
 
@@ -190,12 +190,12 @@ namespace LiqwidsDB.Resources
         }
         public override int GetHashCode()
         {
-            return (this.ResultID+this.LimitTypeID+this.UnitTypeID+this.LimitMeasure).GetHashCode();
+            return (this.ResultID+this.LimitID+this.UnitID+this.LimitMeasure).GetHashCode();
         }
     }
-    public partial class HorizontalCollectionMethodType : IEquatable<HorizontalCollectionMethodType>
+    public partial class HorizontalCollectionMethod : IEquatable<HorizontalCollectionMethod>
     {
-        public bool Equals(HorizontalCollectionMethodType other)
+        public bool Equals(HorizontalCollectionMethod other)
         {
             return String.Equals(this.Name, other.Name);
 
@@ -205,16 +205,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as HorizontalCollectionMethodType);
+            return Equals(obj as HorizontalCollectionMethod);
         }
         public override int GetHashCode()
         {
             return (this.Name).GetHashCode();
         }
     }
-    public partial class HorizontalDatumType : IEquatable<HorizontalDatumType>
+    public partial class HorizontalDatum : IEquatable<HorizontalDatum>
     {
-        public bool Equals(HorizontalDatumType other)
+        public bool Equals(HorizontalDatum other)
         {
             return String.Equals(this.Name, other.Name);
 
@@ -224,16 +224,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as HorizontalDatumType);
+            return Equals(obj as HorizontalDatum);
         }
         public override int GetHashCode()
         {
             return (this.Name).GetHashCode();
         }
     }
-    public partial class LimitType : IEquatable<LimitType>
+    public partial class Limit : IEquatable<Limit>
     {
-        public bool Equals(LimitType other)
+        public bool Equals(Limit other)
         {
             return String.Equals(this.Name, other.Name);
 
@@ -243,7 +243,7 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as LimitType);
+            return Equals(obj as Limit);
         }
         public override int GetHashCode()
         {
@@ -256,7 +256,7 @@ namespace LiqwidsDB.Resources
         {
             return this.Latitude == other.Latitude &&
                 this.Longitude == other.Longitude &&
-                this.HorizontalCollectionMethodTypeID == other.HorizontalCollectionMethodTypeID &&
+                this.HorizontalCollectionMethodID == other.HorizontalCollectionMethodID &&
                 String.Equals(this.Name, other.Name) &&
                 String.Equals(this.FIPSStateID, other.FIPSStateID)&&
                 String.Equals(this.FIPSCountyID, other.FIPSCountyID) &&
@@ -272,7 +272,7 @@ namespace LiqwidsDB.Resources
         }
         public override int GetHashCode()
         {
-            return (this.Latitude + this.Longitude+ this.HorizontalCollectionMethodTypeID+
+            return (this.Latitude + this.Longitude+ this.HorizontalCollectionMethodID+
                 this.Name + this.FIPSStateID + this.FIPSCountyID+ this.LocationTypeID).GetHashCode();
         }
     }
@@ -295,9 +295,9 @@ namespace LiqwidsDB.Resources
             return (this.Name).GetHashCode();
         }
     }
-    public partial class MeasureQualifierType : IEquatable<MeasureQualifierType>
+    public partial class MeasureQualifier : IEquatable<MeasureQualifier>
     {
-        public bool Equals(MeasureQualifierType other)
+        public bool Equals(MeasureQualifier other)
         {
             return String.Equals(this.Name, other.Name);
 
@@ -307,16 +307,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as MeasureQualifierType);
+            return Equals(obj as MeasureQualifier);
         }
         public override int GetHashCode()
         {
             return (this.Name).GetHashCode();
         }
     }
-    public partial class MediaType : IEquatable<MediaType>
+    public partial class Media : IEquatable<Media>
     {
-        public bool Equals(MediaType other)
+        public bool Equals(Media other)
         {
             return String.Equals(this.Name, other.Name);
 
@@ -326,16 +326,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as MediaType);
+            return Equals(obj as Media);
         }
         public override int GetHashCode()
         {
             return (this.Name).GetHashCode();
         }
     }
-    public partial class MethodSpeciationType : IEquatable<MethodSpeciationType>
+    public partial class MethodSpeciation : IEquatable<MethodSpeciation>
     {
-        public bool Equals(MethodSpeciationType other)
+        public bool Equals(MethodSpeciation other)
         {
             return String.Equals(this.Name, other.Name) &&
                 this.CharacteristicTypeID == other.CharacteristicTypeID;
@@ -346,7 +346,7 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as MethodSpeciationType);
+            return Equals(obj as MethodSpeciation);
         }
         public override int GetHashCode()
         {
@@ -398,8 +398,8 @@ namespace LiqwidsDB.Resources
         {
 #warning Needs more work done here
             return this.ActivityID == other.ActivityID &&
-                this.CharacteristicTypeID == other.CharacteristicTypeID &&
-                this.MethodSpeciationTypeID == other.MethodSpeciationTypeID;
+                this.CharacteristicID == other.CharacteristicID &&
+                this.MethodSpeciationID == other.MethodSpeciationID;
 
         }
         public override bool Equals(object obj)
@@ -411,7 +411,7 @@ namespace LiqwidsDB.Resources
         }
         public override int GetHashCode()
         {
-            return (this.ActivityID + this.CharacteristicTypeID).GetHashCode();
+            return (this.ActivityID + this.CharacteristicID).GetHashCode();
         }
     }
     public partial class Role : IEquatable<Role>
@@ -433,9 +433,9 @@ namespace LiqwidsDB.Resources
             return (this.Name).GetHashCode();
         }
     }
-    public partial class SampleFractionType : IEquatable<SampleFractionType>
+    public partial class SampleFraction : IEquatable<SampleFraction>
     {
-        public bool Equals(SampleFractionType other)
+        public bool Equals(SampleFraction other)
         {
             return String.Equals(this.Name, other.Name);
 
@@ -445,16 +445,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as SampleFractionType);
+            return Equals(obj as SampleFraction);
         }
         public override int GetHashCode()
         {
             return (this.Name).GetHashCode();
         }
     }
-    public partial class StatisticalBaseType : IEquatable<StatisticalBaseType>
+    public partial class StatisticalBase : IEquatable<StatisticalBase>
     {
-        public bool Equals(StatisticalBaseType other)
+        public bool Equals(StatisticalBase other)
         {
             return String.Equals(this.Code, other.Code);
         }
@@ -463,16 +463,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as StatisticalBaseType);
+            return Equals(obj as StatisticalBase);
         }
         public override int GetHashCode()
         {
             return (this.Code).GetHashCode();
         }
     }
-    public partial class StatusType : IEquatable<StatusType>
+    public partial class Status : IEquatable<Status>
     {
-        public bool Equals(StatusType other)
+        public bool Equals(Status other)
         {
             return String.Equals(this.Name, other.Name);
         }
@@ -481,16 +481,16 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as StatusType);
+            return Equals(obj as Status);
         }
         public override int GetHashCode()
         {
             return (this.Name).GetHashCode();
         }
     }
-    public partial class UnitType : IEquatable<UnitType>
+    public partial class Unit : IEquatable<Unit>
     {
-        public bool Equals(UnitType other)
+        public bool Equals(Unit other)
         {
             return String.Equals(this.Name, other.Name) &&
                 String.Equals(this.Abbreviation,other.Abbreviation);
@@ -500,7 +500,7 @@ namespace LiqwidsDB.Resources
             if (ReferenceEquals(null, obj)) return false;
             if (ReferenceEquals(this, obj)) return true;
             if (obj.GetType() != GetType()) return false;
-            return Equals(obj as UnitType);
+            return Equals(obj as Unit);
         }
         public override int GetHashCode()
         {

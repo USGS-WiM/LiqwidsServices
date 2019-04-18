@@ -28,14 +28,15 @@ namespace LiqwidsDB.Resources
         [Required]
         public int ResultID { get; set; }
         [Required]
-        public int LimitTypeID { get; set; }
+        public int LimitID { get; set; }
         [Required]
         public double LimitMeasure { get; set; }
         [Required]
-        public int UnitTypeID { get; set; }
+        public int UnitID { get; set; }
 
-        public UnitType UnitType { get; set; }
-        public LimitType LimitType { get; set; }
+        public Result Result { get; set; }
+        public Unit Unit { get; set; }
+        public Limit Limit { get; set; }
 
 
     }

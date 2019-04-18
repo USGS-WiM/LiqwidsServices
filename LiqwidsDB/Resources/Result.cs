@@ -33,20 +33,20 @@ namespace LiqwidsDB.Resources
         [Required]
         public string ActivityID { get; set; }
         [Required]
-        public int? CharacteristicTypeID { get; set; }
+        public int? CharacteristicID { get; set; }
         //[Required] characteristic specific
-        public int? MethodSpeciationTypeID { get; set; }
+        public int? MethodSpeciationID { get; set; }
         [RequiredIf("Value", requiredIfenum.isNull)]//required if value is null
-        public int DetectionConditionTypeID { get; set; } 
+        public int DetectionConditionID { get; set; } 
         public double Value { get; set; }
         [RequiredIf("Value", , requiredIfenum.isNotNull)]// required if value is present
-        public int UnitTypeID { get; set; }
+        public int UnitID { get; set; }
         [Required]
         public int MeasureQualifierID { get; set; }
         //[RequiredIf("CharacteristicTypeID",new int[] {1,2,3,4})]//required for specific characteristics
-        public int SampleFractionTypeID { get; set; }
+        public int SampleFractionID { get; set; }
         [RequiredIf("Value", requiredIfenum.isNotNull)]// required if value is not null
-        public int StatusTypeID { get; set; }
+        public int StatusID { get; set; }
         public int StatisticalBaseCodeID { get; set; }
 
         [RequiredIf("Value", requiredIfenum.isNotNull)]// required if value is not null
@@ -55,16 +55,17 @@ namespace LiqwidsDB.Resources
         public DateTime AnalysisStartDate { get; set; }
         public string Comments { get; set; }
 
-        public CharacteristicType CharacteristicType { get; set; }
-        public MethodSpeciationType GetMethodSpeciationType { get; set; }
-        public SampleFractionType SampleFractionType { get; set; }
+        public Activity Activity { get; set; }
+        public Characteristic Characteristic { get; set; }
+        public MethodSpeciation MethodSpeciation { get; set; }
+        public SampleFraction SampleFraction { get; set; }
         public ValueType ValueType { get; set; }
-        public StatusType StatusType { get; set; }
-        public StatisticalBaseType StatisticalBaseType { get; set; }
-        public AnalyticalMethodType AnalyticalMethodType { get; set; }
-        public UnitType UnitType { get; set; }
+        public Status Status { get; set; }
+        public StatisticalBase StatisticalBase { get; set; }
+        public AnalyticalMethod AnalyticalMethod { get; set; }
+        public Unit Unit { get; set; }
         public DetectionLimit DetectionLimit { get; set; }// -> required if detectionconditiontype is of(Not Detected, present aobe quantification or present and below limit)
-        public MeasureQualifierType MeasureQualifierType { get; set; }
-        public DetectionConditionType DetectionConditionType { get; set; }
+        public MeasureQualifier MeasureQualifier { get; set; }
+        public DetectionCondition DetectionCondition { get; set; }
     }    
 }

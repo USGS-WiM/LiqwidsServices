@@ -36,7 +36,7 @@ namespace LiqwidsDB.Resources
         [Required]
         public string Longitude { get; set; }
         [Required]
-        public int HorizontalCollectionMethodTypeID { get; set; }
+        public int HorizontalCollectionMethodID { get; set; }
         [RequiredIf("HorizontalCollectionMethodTypeID",requiredIfenum.isValue,1)] //1:interpolation map
         public double MapScale { get; set; }
         [Required]
@@ -54,8 +54,8 @@ namespace LiqwidsDB.Resources
         public string TribalLandName { get; set; }
         public string Comments { get; set; }
 
-        public HorizontalCollectionMethodType HorizontalCollectionMethod { get; set; }
-        public HorizontalDatumType HorizontalDatum { get; set; }
+        public HorizontalCollectionMethod HorizontalCollectionMethod { get; set; }
+        public HorizontalDatum HorizontalDatum { get; set; }
         public LocationType LocationType { get; set; }
         public ICollection<Activity> Activities { get; set; }
     }
