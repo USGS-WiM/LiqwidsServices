@@ -1,0 +1,2697 @@
+[
+  {
+    "Domain": "Measurement Unit",
+    "ID": 157,
+    "Abbreviation": "#/100 gal",
+    "Name": "Number per 100 gallons",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 349,
+    "Abbreviation": "#/100L",
+    "Name": "Number per 100 liters",
+    "LastModified": "1/28/2014 8:59:35 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 151,
+    "Abbreviation": "#/100ml",
+    "Name": "Number per hundred milliliters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 307,
+    "Abbreviation": "#/10l",
+    "Name": "Number per 10 liters",
+    "LastModified": "1/10/2012 6:06:31 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 158,
+    "Abbreviation": "#/500 ml",
+    "Name": "Number per 500 milliliters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 212,
+    "Abbreviation": "#/acre",
+    "Name": "Number per acre",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 339,
+    "Abbreviation": "#/cm",
+    "Name": "Number per centimeter",
+    "LastModified": "2/19/2013 12:00:00 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 154,
+    "Abbreviation": "#/cm2",
+    "Name": "Number per square centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 152,
+    "Abbreviation": "#/cm3",
+    "Name": "Number per cubic centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 149,
+    "Abbreviation": "#/dl",
+    "Name": "Number per deciliter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 210,
+    "Abbreviation": "#/ft2",
+    "Name": "Number per square foot",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 208,
+    "Abbreviation": "#/ha",
+    "Name": "Number per hectare",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 209,
+    "Abbreviation": "#/in2",
+    "Name": "Number per square inch",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 207,
+    "Abbreviation": "#/km2",
+    "Name": "Number per square kilometer",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 150,
+    "Abbreviation": "#/l",
+    "Name": "Number per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 206,
+    "Abbreviation": "#/m2",
+    "Name": "Number per square meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 153,
+    "Abbreviation": "#/m3",
+    "Name": "Number per cubic meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 213,
+    "Abbreviation": "#/mi2",
+    "Name": "Number per square mile",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 148,
+    "Abbreviation": "#/ml",
+    "Name": "Number per milliliter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 375,
+    "Abbreviation": "#/um3",
+    "Name": "Number per cubic micrometer",
+    "LastModified": "5/9/2016 9:21:38 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 211,
+    "Abbreviation": "#/yd2",
+    "Name": "Number per square yard",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 223,
+    "Abbreviation": "%",
+    "Name": "Percent",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 225,
+    "Abbreviation": "% by vol",
+    "Name": "Percent by volume",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 224,
+    "Abbreviation": "% by wt",
+    "Name": "Percent by weight",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 256,
+    "Abbreviation": "% CaCO3",
+    "Name": "Percent calcium carbonate",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 28,
+    "Abbreviation": "% Cover",
+    "Name": "Percent Cover",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 353,
+    "Abbreviation": "% passing",
+    "Name": "Percent passing sieve",
+    "LastModified": "3/31/2014 8:59:35 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 326,
+    "Abbreviation": "% recovery",
+    "Name": "Percent of recovery",
+    "LastModified": "1/11/2012 3:59:10 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 354,
+    "Abbreviation": "% saturatn",
+    "Name": "% saturation",
+    "LastModified": "9/10/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 41,
+    "Abbreviation": "% sediment",
+    "Name": "% target/clean sed mix which produces response",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 363,
+    "Abbreviation": "% solids",
+    "Name": "Percent of solids",
+    "LastModified": "1/13/2015 2:11:39 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 172,
+    "Abbreviation": "0/00",
+    "Name": "Parts per thousand",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 245,
+    "Abbreviation": "ac",
+    "Name": "Acres",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 235,
+    "Abbreviation": "ac-ft",
+    "Name": "Acre-feet",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 539,
+    "Abbreviation": "ac-in",
+    "Name": "Acre-inches",
+    "LastModified": "11/13/2017 12:38:18 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 166,
+    "Abbreviation": "ADMI value",
+    "Name": "American Dye Manufacturers Institute Color Value (5 to 250 units Pt-Co)",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 62,
+    "Abbreviation": "amps",
+    "Name": "Electrical current, amperes",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 132,
+    "Abbreviation": "Angst",
+    "Name": "Angstroms",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 56,
+    "Abbreviation": "atm",
+    "Name": "Pressure, atmospheres",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 301,
+    "Abbreviation": "AU",
+    "Name": "Turbidity, Attenuation Unit",
+    "LastModified": "3/3/2011 3:23:24 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 331,
+    "Abbreviation": "bar",
+    "Name": "Bar",
+    "LastModified": "5/24/2012 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 321,
+    "Abbreviation": "bbl",
+    "Name": "Barrel equals 31.50 gallons, 119.24 liters",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 282,
+    "Abbreviation": "beaufort",
+    "Name": "Wind force (beaufort unit)",
+    "LastModified": "7/19/2010 3:16:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 68,
+    "Abbreviation": "BTU",
+    "Name": "Energy, British Thermal Units",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 302,
+    "Abbreviation": "BU",
+    "Name": "Turbidity, Backscatter Unit",
+    "LastModified": "3/3/2011 3:23:24 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 69,
+    "Abbreviation": "cal",
+    "Name": "Energy, calories",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 312,
+    "Abbreviation": "cal/cm2/hr",
+    "Name": "Calories per square centimeter per hour",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 338,
+    "Abbreviation": "CCE/100ml",
+    "Name": "Calibrator Cell Equivalents per 100 Milliliters",
+    "LastModified": "12/20/2012 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 459,
+    "Abbreviation": "cd",
+    "Name": "Candela",
+    "LastModified": "3/6/2017 2:02:54 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 114,
+    "Abbreviation": "cfm",
+    "Name": "Cubic feet per minute",
+    "LastModified": "12/19/2012 10:10:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 113,
+    "Abbreviation": "cfs",
+    "Name": "Cubic feet per second",
+    "LastModified": "3/7/2013 3:20:00 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 147,
+    "Abbreviation": "CFU",
+    "Name": "Colony Forming Units",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 290,
+    "Abbreviation": "cfu/100g",
+    "Name": "Colony Forming Units per 100 grams",
+    "LastModified": "7/19/2010 3:16:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 164,
+    "Abbreviation": "cfu/100ml",
+    "Name": "Colony Forming Units per 100 Milliliters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 285,
+    "Abbreviation": "cfu/10ml",
+    "Name": "Colony Forming Units per 10 Milliliters",
+    "LastModified": "7/19/2010 3:16:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 328,
+    "Abbreviation": "cfu/gdw",
+    "Name": "Colony Forming Units per gram dryweight",
+    "LastModified": "1/11/2012 3:59:35 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 361,
+    "Abbreviation": "cfu/ml",
+    "Name": "Colony Forming Units per Milliliters",
+    "LastModified": "12/17/2014 8:01:57 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 135,
+    "Abbreviation": "cm",
+    "Name": "Centimeters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 191,
+    "Abbreviation": "cm/sec",
+    "Name": "Centimeters per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 237,
+    "Abbreviation": "cm2",
+    "Name": "Square centimeters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 204,
+    "Abbreviation": "cm3",
+    "Name": "Cubic centimeters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 519,
+    "Abbreviation": "cm3/g",
+    "Name": "Cubic centimeters per gram",
+    "LastModified": "10/31/2017 9:34:01 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 118,
+    "Abbreviation": "cm3/hr",
+    "Name": "Cubic centimeters per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 252,
+    "Abbreviation": "cm3/l",
+    "Name": "Cubic centimeters per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 117,
+    "Abbreviation": "cm3/min",
+    "Name": "Cubic centimeters per minute",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 116,
+    "Abbreviation": "cm3/sec",
+    "Name": "Cubic centimeters per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 355,
+    "Abbreviation": "code",
+    "Name": "Please see http://waterdata.usgs.gov/nwis/qwdata?codes_table26_help#62955",
+    "LastModified": "9/10/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 145,
+    "Abbreviation": "count",
+    "Name": "Count",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 356,
+    "Abbreviation": "counts/sec",
+    "Name": "Counts per second",
+    "LastModified": "9/10/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 286,
+    "Abbreviation": "d/h/m/s",
+    "Name": "Days/hours/minutes/seconds",
+    "LastModified": "7/19/2010 3:16:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 219,
+    "Abbreviation": "days",
+    "Name": "Days",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 333,
+    "Abbreviation": "decibar",
+    "Name": "Decibar",
+    "LastModified": "5/24/2012 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 110,
+    "Abbreviation": "Deg",
+    "Name": "Direction or angle, degrees",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 246,
+    "Abbreviation": "deg C",
+    "Name": "Degrees Celsius (Centigrade)",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 247,
+    "Abbreviation": "deg F",
+    "Name": "Degrees Fahrenheit",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 248,
+    "Abbreviation": "deg K",
+    "Name": "Degrees Kelvin",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 202,
+    "Abbreviation": "dl",
+    "Name": "Deciliters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 136,
+    "Abbreviation": "dm",
+    "Name": "Decimeters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 249,
+    "Abbreviation": "dm2",
+    "Name": "Square decimeters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 311,
+    "Abbreviation": "dpm/100l",
+    "Name": "Disintegrations per minute per 100 liters",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 279,
+    "Abbreviation": "dpm/g",
+    "Name": "Decay per minute per gram",
+    "LastModified": "5/6/2010 12:00:00 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 46,
+    "Abbreviation": "drips/min",
+    "Name": "Drips per minute",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 203,
+    "Abbreviation": "drops",
+    "Name": "Drops",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 266,
+    "Abbreviation": "eq/L",
+    "Name": "Equivalents per Liter",
+    "LastModified": "4/24/2009 3:29:59 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 295,
+    "Abbreviation": "FAU",
+    "Name": "Turbidity, Formazine Attenuation Units",
+    "LastModified": "3/3/2011 3:23:23 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 294,
+    "Abbreviation": "FBU",
+    "Name": "Turbidity, Formazin Backscatter Unit",
+    "LastModified": "3/3/2011 3:23:23 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 107,
+    "Abbreviation": "fc/ft2",
+    "Name": "Light Intensity, foot candles per square foot",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 342,
+    "Abbreviation": "fg/kg",
+    "Name": "Femtogram/kilogram",
+    "LastModified": "9/5/2013 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 43,
+    "Abbreviation": "fibers/l",
+    "Name": "Fibers per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 296,
+    "Abbreviation": "FNMU",
+    "Name": "Turbidity, Formazin Nephelometric Multibeam Unit",
+    "LastModified": "3/3/2011 3:23:24 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 297,
+    "Abbreviation": "FNRU",
+    "Name": "Turbidity, Formazin Nephelometric Ratio Unit",
+    "LastModified": "3/3/2011 3:23:24 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 298,
+    "Abbreviation": "FNU",
+    "Name": "Turbidity, Formazin Nephelometric Unit",
+    "LastModified": "3/3/2011 3:23:24 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 274,
+    "Abbreviation": "fraction",
+    "Name": "Fraction of sample total",
+    "LastModified": "11/24/2009 7:07:30 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 140,
+    "Abbreviation": "ft",
+    "Name": "Feet",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 105,
+    "Abbreviation": "ft-candles",
+    "Name": "Light Intensity, foot candles",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 71,
+    "Abbreviation": "ft-lbs",
+    "Name": "Energy, foot pounds",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 199,
+    "Abbreviation": "ft/day",
+    "Name": "Feet per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 195,
+    "Abbreviation": "ft/min",
+    "Name": "Feet per minute",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 194,
+    "Abbreviation": "ft/sec",
+    "Name": "Feet per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 242,
+    "Abbreviation": "ft2",
+    "Name": "Square feet",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 229,
+    "Abbreviation": "ft3",
+    "Name": "Cubic feet",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 115,
+    "Abbreviation": "ft3/day",
+    "Name": "Cubic feet per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 270,
+    "Abbreviation": "ft3/sec",
+    "Name": "Cubic feet per second",
+    "LastModified": "11/24/2009 7:07:30 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 75,
+    "Abbreviation": "FTU",
+    "Name": "Turbidity, Formazin Turbidity Units",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 6,
+    "Abbreviation": "g",
+    "Name": "Grams",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 263,
+    "Abbreviation": "g/cm2",
+    "Name": "Grams per square centimeters",
+    "LastModified": "12/13/2007 1:29:45 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 26,
+    "Abbreviation": "g/cm3",
+    "Name": "Grams per cubic centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 186,
+    "Abbreviation": "g/day",
+    "Name": "Grams per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 185,
+    "Abbreviation": "g/hr",
+    "Name": "Grams per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 86,
+    "Abbreviation": "g/kg",
+    "Name": "Grams per kilogram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 47,
+    "Abbreviation": "g/l",
+    "Name": "Grams per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 80,
+    "Abbreviation": "g/m2",
+    "Name": "Grams per square meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 129,
+    "Abbreviation": "g/m2/day",
+    "Name": "Grams per square meter per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 128,
+    "Abbreviation": "g/m2/hr",
+    "Name": "Grams per square meter per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 20,
+    "Abbreviation": "g/m3",
+    "Name": "Grams per cubic meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 101,
+    "Abbreviation": "g/m3/day",
+    "Name": "Grams per cubic meter per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 100,
+    "Abbreviation": "g/m3/hr",
+    "Name": "Grams per cubic meter per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 184,
+    "Abbreviation": "g/min",
+    "Name": "Grams per minute",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 48,
+    "Abbreviation": "g/ml",
+    "Name": "Grams per milliliter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 183,
+    "Abbreviation": "g/sec",
+    "Name": "Grams per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 499,
+    "Abbreviation": "g/stalk",
+    "Name": "Grams per stalk",
+    "LastModified": "8/2/2017 12:10:44 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 233,
+    "Abbreviation": "gal",
+    "Name": "Fluid gallons",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 125,
+    "Abbreviation": "gal/day",
+    "Name": "Gallons per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 124,
+    "Abbreviation": "gal/hr",
+    "Name": "Gallons per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 123,
+    "Abbreviation": "gal/min",
+    "Name": "Gallons per minute",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 122,
+    "Abbreviation": "gal/sec",
+    "Name": "Gallons per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 255,
+    "Abbreviation": "gpg",
+    "Name": "Grains per gallon",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 358,
+    "Abbreviation": "gpm",
+    "Name": "Gallons per minute",
+    "LastModified": "10/24/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 73,
+    "Abbreviation": "gpm/ft",
+    "Name": "Drawdown capacity, gallons per minute per foot",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 308,
+    "Abbreviation": "grains",
+    "Name": "Grains",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 309,
+    "Abbreviation": "Granules",
+    "Name": "Granule count of substance in pan or tailings",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 240,
+    "Abbreviation": "ha",
+    "Name": "Hectares",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 218,
+    "Abbreviation": "hours",
+    "Name": "Hours",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 66,
+    "Abbreviation": "hp",
+    "Name": "Power, horsepower",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 234,
+    "Abbreviation": "Imp gal",
+    "Name": "Imperial gallons",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 139,
+    "Abbreviation": "in",
+    "Name": "Inches",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 283,
+    "Abbreviation": "in/day",
+    "Name": "Inches per day",
+    "LastModified": "7/19/2010 3:16:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 241,
+    "Abbreviation": "in2",
+    "Name": "Square inches",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 228,
+    "Abbreviation": "in3",
+    "Name": "Cubic inches",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 54,
+    "Abbreviation": "inH2O",
+    "Name": "Pressure, inches of water",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 227,
+    "Abbreviation": "inHg",
+    "Name": "Pressure, inches of mercury",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 104,
+    "Abbreviation": "JCU",
+    "Name": "Light Intensity, Jackson Candle Units",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 67,
+    "Abbreviation": "Joules",
+    "Name": "Energy, Joules",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 76,
+    "Abbreviation": "JTU",
+    "Name": "Turbidity, Jackson Turbidity Units",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 70,
+    "Abbreviation": "kcal",
+    "Name": "Energy, kilocalories",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 7,
+    "Abbreviation": "kg",
+    "Name": "Kilograms",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 81,
+    "Abbreviation": "kg/m2",
+    "Name": "Kilograms per square meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 21,
+    "Abbreviation": "kg/m3",
+    "Name": "Kilograms per cubic meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 343,
+    "Abbreviation": "Kg/m3-1000",
+    "Name": "Kilograms per cubic meter minus one thousand",
+    "LastModified": "9/27/2013 11:57:20 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 259,
+    "Abbreviation": "kg/t CaCO3",
+    "Name": "Kilograms per Ton calcium carbonate",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 322,
+    "Abbreviation": "kgal",
+    "Name": "1000 gallons",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 138,
+    "Abbreviation": "km",
+    "Name": "Kilometers",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 196,
+    "Abbreviation": "km/hr",
+    "Name": "Kilometers per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 193,
+    "Abbreviation": "km/sec",
+    "Name": "Kilometers per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 239,
+    "Abbreviation": "km2",
+    "Name": "Square kilometers",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 198,
+    "Abbreviation": "knots",
+    "Name": "Nautical miles per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 336,
+    "Abbreviation": "KOhm/cm",
+    "Name": "Kilo ohm per centimeter",
+    "LastModified": "5/24/2012 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 64,
+    "Abbreviation": "kw",
+    "Name": "Power, kilowatts",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 200,
+    "Abbreviation": "l",
+    "Name": "Liters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 45,
+    "Abbreviation": "l/day",
+    "Name": "Liters per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 121,
+    "Abbreviation": "l/hr",
+    "Name": "Liters per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 340,
+    "Abbreviation": "L/mg-cm",
+    "Name": "Liters per milligram-centimeter",
+    "LastModified": "2/19/2013 12:00:00 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 120,
+    "Abbreviation": "l/min",
+    "Name": "Liters per minute",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 119,
+    "Abbreviation": "l/sec",
+    "Name": "Liters per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 72,
+    "Abbreviation": "Langleys",
+    "Name": "Energy Intensity, Langleys (cal/sq cm)",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 9,
+    "Abbreviation": "lb",
+    "Name": "Pounds",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 130,
+    "Abbreviation": "lb/acre/yr",
+    "Name": "Pounds per acre per year",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 190,
+    "Abbreviation": "lb/day",
+    "Name": "Pounds per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 305,
+    "Abbreviation": "lb/ft3",
+    "Name": "Pounds per cubic foot",
+    "LastModified": "12/6/2011 1:57:04 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 189,
+    "Abbreviation": "lb/hr",
+    "Name": "Pounds per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 74,
+    "Abbreviation": "lb/in",
+    "Name": "Tension, pounds per inch displacement",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 188,
+    "Abbreviation": "lb/min",
+    "Name": "Pounds per minute",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 187,
+    "Abbreviation": "lb/sec",
+    "Name": "Pounds per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 316,
+    "Abbreviation": "lbs/kgal",
+    "Name": "Pounds/kilogallon",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 108,
+    "Abbreviation": "lm/ft2",
+    "Name": "Light Intensity, lumens per square foot",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 325,
+    "Abbreviation": "lm/m2",
+    "Name": "Light Intensity, lumens per square meter",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 372,
+    "Abbreviation": "loc-sec",
+    "Name": "Locational seconds (latitude/longitude)",
+    "LastModified": "3/1/2016 7:39:07 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 106,
+    "Abbreviation": "lumens",
+    "Name": "Light Intensity, lumens",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 137,
+    "Abbreviation": "m",
+    "Name": "Meters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 367,
+    "Abbreviation": "m-1",
+    "Name": "inverse meters",
+    "LastModified": "1/19/2016 11:12:28 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 192,
+    "Abbreviation": "m/sec",
+    "Name": "Meters per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 288,
+    "Abbreviation": "m/y",
+    "Name": "Month/year",
+    "LastModified": "7/19/2010 3:16:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 238,
+    "Abbreviation": "m2",
+    "Name": "Square meters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 281,
+    "Abbreviation": "m2/km2",
+    "Name": "Square meters per square kilometers",
+    "LastModified": "6/14/2010 3:16:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 205,
+    "Abbreviation": "m3",
+    "Name": "Cubic meters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 162,
+    "Abbreviation": "m3/hr",
+    "Name": "Cubic meters per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 161,
+    "Abbreviation": "m3/min",
+    "Name": "Cubic meters per min",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 44,
+    "Abbreviation": "m3/sec",
+    "Name": "Cubic meters per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 324,
+    "Abbreviation": "mCi/km2",
+    "Name": "MilliCuries per square kilometer",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 317,
+    "Abbreviation": "mEq/100g",
+    "Name": "Milli-equivalents per 100 gram",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 30,
+    "Abbreviation": "meq/L",
+    "Name": "Milli-equivalents per Liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 11,
+    "Abbreviation": "metric ton",
+    "Name": "Metric tons",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 293,
+    "Abbreviation": "MFL",
+    "Name": "Million Fibers per Liter fiber size > 10u",
+    "LastModified": "3/3/2011 3:15:43 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 5,
+    "Abbreviation": "mg",
+    "Name": "Milligrams",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 373,
+    "Abbreviation": "mg N/l",
+    "Name": "mg nitrogen in one liter of water or milligrams per liter Nitrogen",
+    "LastModified": "3/24/2016 2:19:50 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 278,
+    "Abbreviation": "mg/cm2",
+    "Name": "Milligrams per square centimeters",
+    "LastModified": "2/12/2010 12:45:10 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 25,
+    "Abbreviation": "mg/cm3",
+    "Name": "Milligrams per cubic centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 182,
+    "Abbreviation": "mg/day",
+    "Name": "Milligrams per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 90,
+    "Abbreviation": "mg/g",
+    "Name": "Milligrams per gram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 181,
+    "Abbreviation": "mg/hr",
+    "Name": "Milligrams per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 85,
+    "Abbreviation": "mg/kg",
+    "Name": "Milligrams per kilogram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 15,
+    "Abbreviation": "mg/l",
+    "Name": "Milligrams per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 258,
+    "Abbreviation": "mg/l CaCO3",
+    "Name": "Milligrams per liter calcium carbonate",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 79,
+    "Abbreviation": "mg/m2",
+    "Name": "Milligrams per square meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 127,
+    "Abbreviation": "mg/m2/day",
+    "Name": "Milligrams per square meter per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 102,
+    "Abbreviation": "mg/m2/hr",
+    "Name": "Milligrams per square meter per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 19,
+    "Abbreviation": "mg/m3",
+    "Name": "Milligrams per cubic meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 99,
+    "Abbreviation": "mg/m3/day",
+    "Name": "Milligrams per cubic meter per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 98,
+    "Abbreviation": "mg/m3/hr",
+    "Name": "Milligrams per cubic meter per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 180,
+    "Abbreviation": "mg/min",
+    "Name": "Milligrams per minute",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 49,
+    "Abbreviation": "mg/ml",
+    "Name": "Milligrams per milliliter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 179,
+    "Abbreviation": "mg/sec",
+    "Name": "Milligrams per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 320,
+    "Abbreviation": "Mgal",
+    "Name": "Million gallons",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 177,
+    "Abbreviation": "mgal/mnth",
+    "Name": "Millions of gallons per month",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 178,
+    "Abbreviation": "mgal/year",
+    "Name": "Millions of gallons per year",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 126,
+    "Abbreviation": "mgd",
+    "Name": "Millions of gallons per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 59,
+    "Abbreviation": "mho/cm",
+    "Name": "Electrical conductivity, mhos per centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 142,
+    "Abbreviation": "mi",
+    "Name": "Miles",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 244,
+    "Abbreviation": "mi2",
+    "Name": "Square miles",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 276,
+    "Abbreviation": "micron",
+    "Name": "Micron",
+    "LastModified": "12/15/2009 3:15:36 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 332,
+    "Abbreviation": "millibar",
+    "Name": "Millibar",
+    "LastModified": "5/24/2012 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 329,
+    "Abbreviation": "Millimolar",
+    "Name": "Millimolar",
+    "LastModified": "1/11/2012 5:40:11 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 111,
+    "Abbreviation": "Min",
+    "Name": "Direction or angle, minutes",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 217,
+    "Abbreviation": "minutes",
+    "Name": "Minutes",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 201,
+    "Abbreviation": "ml",
+    "Name": "Milliliters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 50,
+    "Abbreviation": "ml/l",
+    "Name": "Milliliters per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 362,
+    "Abbreviation": "ml/l/hr",
+    "Name": "Milliliters per liter per hour",
+    "LastModified": "1/5/2015 11:12:58 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 479,
+    "Abbreviation": "ml/m3",
+    "Name": "Milliliters per cubic meter",
+    "LastModified": "5/22/2017 7:27:59 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 359,
+    "Abbreviation": "ml/min",
+    "Name": "Milliliters per minute",
+    "LastModified": "12/2/2014 8:51:42 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 134,
+    "Abbreviation": "mm",
+    "Name": "Millimeters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 236,
+    "Abbreviation": "mm2",
+    "Name": "Square millimeters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 323,
+    "Abbreviation": "mm3",
+    "Name": "Cubic millimeters",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 251,
+    "Abbreviation": "mm3/l",
+    "Name": "Cubic millimeters per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 55,
+    "Abbreviation": "mmH2O",
+    "Name": "Pressure, millimeters of water",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 53,
+    "Abbreviation": "mmHg",
+    "Name": "Pressure, millimeters of mercury",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 303,
+    "Abbreviation": "mmhos/cm",
+    "Name": "Electrical conductivity, millimhos per centimeter",
+    "LastModified": "9/27/2011 11:15:02 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 52,
+    "Abbreviation": "mmol/kg",
+    "Name": "Millimoles per kilogram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 319,
+    "Abbreviation": "mmol/L",
+    "Name": "Millimoles per liter",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 253,
+    "Abbreviation": "mmol/m2/dy",
+    "Name": "Millimoles per square meter per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 51,
+    "Abbreviation": "mmol/m2/hr",
+    "Name": "Millimoles per square meter per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 344,
+    "Abbreviation": "mmol/mg",
+    "Name": "Millimoles per milligram",
+    "LastModified": "11/20/2013 11:57:20 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 97,
+    "Abbreviation": "Molal",
+    "Name": "Molal",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 96,
+    "Abbreviation": "Molar",
+    "Name": "Molar",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 94,
+    "Abbreviation": "Mole/l",
+    "Name": "Moles per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 221,
+    "Abbreviation": "months",
+    "Name": "Months",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 265,
+    "Abbreviation": "mosm/kg",
+    "Name": "Milliosmole per kg",
+    "LastModified": "7/3/2008 12:38:35 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 197,
+    "Abbreviation": "mph",
+    "Name": "Miles per hour",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 146,
+    "Abbreviation": "MPN",
+    "Name": "Most Probable Number",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 277,
+    "Abbreviation": "MPN/100g",
+    "Name": "Most Probable Number per 100 grams",
+    "LastModified": "2/2/2010 8:43:26 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 262,
+    "Abbreviation": "MPN/100ml",
+    "Name": "Most Probable Number per 100 milliliters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 292,
+    "Abbreviation": "MPN/g",
+    "Name": "Most Probable Number per gram",
+    "LastModified": "8/4/2010 9:48:59 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 40,
+    "Abbreviation": "mrem/day",
+    "Name": "Millirems per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 39,
+    "Abbreviation": "mrem/yr",
+    "Name": "Millirems per year",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 215,
+    "Abbreviation": "ms",
+    "Name": "Milliseconds",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 32,
+    "Abbreviation": "mS/cm",
+    "Name": "Milli-Siemens per Centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 559,
+    "Abbreviation": "mS/m",
+    "Name": "Milli-Siemens per Meter",
+    "LastModified": "12/7/2017 9:01:07 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 337,
+    "Abbreviation": "MSC",
+    "Name": "Mean Standing Crop",
+    "LastModified": "5/24/2012 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 131,
+    "Abbreviation": "MT/km2/yr",
+    "Name": "Metric tons per square kilometer per year",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 35,
+    "Abbreviation": "mV",
+    "Name": "Millivolts",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 65,
+    "Abbreviation": "mw",
+    "Name": "Power, megawatts",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 176,
+    "Abbreviation": "nCi/L",
+    "Name": "Nanocuries per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 3,
+    "Abbreviation": "ng",
+    "Name": "Nanograms",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 327,
+    "Abbreviation": "ng/cm2",
+    "Name": "Nanograms per square centimeter",
+    "LastModified": "1/11/2012 3:59:36 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 23,
+    "Abbreviation": "ng/cm3",
+    "Name": "Nanograms per cubic centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 88,
+    "Abbreviation": "ng/g",
+    "Name": "Nanograms per gram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 83,
+    "Abbreviation": "ng/kg",
+    "Name": "Nanograms per kilogram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 13,
+    "Abbreviation": "ng/l",
+    "Name": "Nanograms per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 77,
+    "Abbreviation": "ng/m2",
+    "Name": "Nanograms per square meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 351,
+    "Abbreviation": "ng/m2/day",
+    "Name": "Nanograms per square meter per day",
+    "LastModified": "7/28/2017 12:33:44 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 17,
+    "Abbreviation": "ng/m3",
+    "Name": "Nanograms per cubic meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 280,
+    "Abbreviation": "ng/ml",
+    "Name": "Nanograms per milliliter",
+    "LastModified": "6/4/2010 10:57:43 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 133,
+    "Abbreviation": "nm",
+    "Name": "Nanometers",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 289,
+    "Abbreviation": "nm-1",
+    "Name": "Inverse nanometers",
+    "LastModified": "7/19/2010 3:16:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 143,
+    "Abbreviation": "nmi",
+    "Name": "Nautical miles",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 250,
+    "Abbreviation": "nmi2",
+    "Name": "Square nautical miles",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 268,
+    "Abbreviation": "nmol/g DW/h",
+    "Name": "Nanomoles per gram dry weight per hour",
+    "LastModified": "11/24/2009 7:07:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 271,
+    "Abbreviation": "nmol/hr/g",
+    "Name": "Nanomoles per hour per gram",
+    "LastModified": "11/24/2009 7:07:30 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 163,
+    "Abbreviation": "nmol/kg",
+    "Name": "Nanomoles per Kilogram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 371,
+    "Abbreviation": "nmol/m3",
+    "Name": "Nanomoles per cubic meter",
+    "LastModified": "1/29/2016 12:37:35 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 1,
+    "Abbreviation": "None",
+    "Name": "None",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 95,
+    "Abbreviation": "Normal",
+    "Name": "Normal",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 300,
+    "Abbreviation": "NTMU",
+    "Name": "Turbidity, Nephelometric Turbidity Multibeam Unit",
+    "LastModified": "3/3/2011 3:23:24 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 299,
+    "Abbreviation": "NTRU",
+    "Name": "Turbidity, Nephelometric Turbidity Ratio Unit",
+    "LastModified": "3/3/2011 3:23:24 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 103,
+    "Abbreviation": "NTU",
+    "Name": "Turbidity, Nephelometric Turbidity Units",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 144,
+    "Abbreviation": "nu",
+    "Name": "Number or gage",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 315,
+    "Abbreviation": "ohm",
+    "Name": "Electrical resistance, ohms (Ω)",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 365,
+    "Abbreviation": "ohm-cm",
+    "Name": "Resistivity, ohms - centimeter (Ω⋅cm)",
+    "LastModified": "4/15/2015 7:38:35 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 378,
+    "Abbreviation": "ohm-m",
+    "Name": "Resistivity, ohms - meter (Ω⋅m).  Ohm-meter is a unit of resistivity",
+    "LastModified": "12/7/2017 8:13:48 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 8,
+    "Abbreviation": "oz",
+    "Name": "Ounces",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 58,
+    "Abbreviation": "Pascal",
+    "Name": "Pressure, Pascal units",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 368,
+    "Abbreviation": "pCi",
+    "Name": "Picocuries",
+    "LastModified": "1/19/2016 11:12:28 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 37,
+    "Abbreviation": "pCi/g",
+    "Name": "Picocuries per gram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 36,
+    "Abbreviation": "pCi/L",
+    "Name": "Picocuries per Liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 34,
+    "Abbreviation": "pCi/m2",
+    "Name": "Picocuries per square meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 38,
+    "Abbreviation": "pCi/m3",
+    "Name": "Picocuries per cubic meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 155,
+    "Abbreviation": "pCi/ml",
+    "Name": "Picocuries per milliliter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 33,
+    "Abbreviation": "PCU",
+    "Name": "Platinum Cobalt Units (color) - American Public Health Association Color Scale, APHA = Pt-Co = Hazen Color",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 42,
+    "Abbreviation": "per m",
+    "Name": "Per meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 357,
+    "Abbreviation": "per mil",
+    "Name": "Per thousand",
+    "LastModified": "2/16/2017 11:05:28 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 257,
+    "Abbreviation": "pfu/100ml",
+    "Name": "Plaque Forming Units per 100 Milliliters",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 2,
+    "Abbreviation": "pg",
+    "Name": "Picograms",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 22,
+    "Abbreviation": "pg/cm3",
+    "Name": "Picograms per cubic centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 87,
+    "Abbreviation": "pg/g",
+    "Name": "Picograms per gram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 82,
+    "Abbreviation": "pg/kg",
+    "Name": "Picograms per kilogram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 12,
+    "Abbreviation": "pg/l",
+    "Name": "Picograms per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 27,
+    "Abbreviation": "pg/m2",
+    "Name": "Picograms per square meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 16,
+    "Abbreviation": "pg/m3",
+    "Name": "Picograms per cubic meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 350,
+    "Abbreviation": "phi",
+    "Name": "Krumbein Phi Scale",
+    "LastModified": "9/5/2013 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 214,
+    "Abbreviation": "Plate cnt",
+    "Name": "Plate Count",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 314,
+    "Abbreviation": "pmc",
+    "Name": "Percent modern carbon",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 352,
+    "Abbreviation": "pmol/mg/min",
+    "Name": "Picomoles per milligram per minute",
+    "LastModified": "3/31/2014 8:59:35 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 91,
+    "Abbreviation": "ppb",
+    "Name": "Parts per billion",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 620,
+    "Abbreviation": "ppbv",
+    "Name": "Parts per billion by volume",
+    "LastModified": "5/31/2018 1:24:02 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 92,
+    "Abbreviation": "ppm",
+    "Name": "Parts per million",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 619,
+    "Abbreviation": "ppmv",
+    "Name": "Parts per million by volume",
+    "LastModified": "5/31/2018 1:24:02 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 261,
+    "Abbreviation": "ppt",
+    "Name": "Parts per trillion",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 93,
+    "Abbreviation": "ppth",
+    "Name": "Parts per thousand",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 369,
+    "Abbreviation": "psf",
+    "Name": "Pounds per square foot",
+    "LastModified": "1/19/2016 11:12:28 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 226,
+    "Abbreviation": "psi",
+    "Name": "Pressure, pounds per square inch",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 168,
+    "Abbreviation": "PSS",
+    "Name": "Practical Salinity Scale",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 341,
+    "Abbreviation": "PSU",
+    "Name": "Practical Salinity Scale",
+    "LastModified": "5/24/2012 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 231,
+    "Abbreviation": "pt",
+    "Name": "Fluid pints",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 232,
+    "Abbreviation": "qt",
+    "Name": "Fluid quarts",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 366,
+    "Abbreviation": "RFU",
+    "Name": "Relative Fluorescence Units",
+    "LastModified": "12/14/2015 2:59:00 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 304,
+    "Abbreviation": "RLU",
+    "Name": "Relative light units",
+    "LastModified": "10/18/2011 11:15:02 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 360,
+    "Abbreviation": "RmV",
+    "Name": "Relative millivolts",
+    "LastModified": "12/2/2014 8:51:42 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 165,
+    "Abbreviation": "S/m",
+    "Name": "Siemens per meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 112,
+    "Abbreviation": "Sec",
+    "Name": "Direction or angle, seconds",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 216,
+    "Abbreviation": "seconds",
+    "Name": "Seconds",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 175,
+    "Abbreviation": "T.U.",
+    "Name": "Tritium Unit",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 260,
+    "Abbreviation": "tCaCO3/Kt",
+    "Name": "Tons of calcium carbonate per kiloton",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 173,
+    "Abbreviation": "TON",
+    "Name": "Threshold Odor Number",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 10,
+    "Abbreviation": "tons",
+    "Name": "Short tons",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 159,
+    "Abbreviation": "tons/ac ft",
+    "Name": "Tons per acre feet",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 156,
+    "Abbreviation": "tons/day",
+    "Name": "Tons per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 57,
+    "Abbreviation": "Torr",
+    "Name": "Pressure, Torr units(vacuum)",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 171,
+    "Abbreviation": "TU",
+    "Name": "Toxic Units, dividing 100% by the LC50 (% effluent",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 267,
+    "Abbreviation": "TUc",
+    "Name": "Toxic Unit chronic",
+    "LastModified": "6/22/2009 12:03:57 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 439,
+    "Abbreviation": "uE/m2/s",
+    "Name": "Microeinsteins per square meter per second",
+    "LastModified": "2/24/2017 4:13:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 109,
+    "Abbreviation": "uE/m2/sec",
+    "Name": "Photosynth. radiation,micro-Einsteins/sq.meter/sec",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 29,
+    "Abbreviation": "ueq/L",
+    "Name": "Micro-equivalents per Liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 4,
+    "Abbreviation": "ug",
+    "Name": "Micrograms",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 639,
+    "Abbreviation": "ug/100cm2",
+    "Name": "micrograms per 100 cubic cm",
+    "LastModified": "7/17/2018 3:25:16 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 291,
+    "Abbreviation": "ug/cart",
+    "Name": "Micrograms per cartridge",
+    "LastModified": "7/19/2010 3:16:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 306,
+    "Abbreviation": "ug/cm2",
+    "Name": "Micrograms per square centimeters",
+    "LastModified": "12/27/2011 10:09:21 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 160,
+    "Abbreviation": "ug/cm2/day",
+    "Name": "Micrograms per square centimeter per day",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 24,
+    "Abbreviation": "ug/cm3",
+    "Name": "Micrograms per cubic centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 89,
+    "Abbreviation": "ug/g",
+    "Name": "Micrograms per gram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 269,
+    "Abbreviation": "ug/g DW/hr",
+    "Name": "Micrograms per gram dry weight per hour",
+    "LastModified": "11/24/2009 7:07:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 275,
+    "Abbreviation": "ug/hr/g",
+    "Name": "Micrograms per hour per gram",
+    "LastModified": "12/7/2009 1:15:26 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 84,
+    "Abbreviation": "ug/kg",
+    "Name": "Micrograms per kilogram",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 14,
+    "Abbreviation": "ug/l",
+    "Name": "Micrograms per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 78,
+    "Abbreviation": "ug/m2",
+    "Name": "Micrograms per square meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 348,
+    "Abbreviation": "ug/m2/hr",
+    "Name": "Micrograms per square meter per hour",
+    "LastModified": "7/28/2017 12:33:50 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 18,
+    "Abbreviation": "ug/m3",
+    "Name": "Micrograms per cubic meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 374,
+    "Abbreviation": "ug/ml",
+    "Name": "Micrograms per milliliters",
+    "LastModified": "4/28/2016 3:46:17 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 580,
+    "Abbreviation": "ug/net",
+    "Name": "micrograms per net sample",
+    "LastModified": "1/31/2018 2:54:39 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 579,
+    "Abbreviation": "ug/PUF",
+    "Name": "micrograms per polyurethane foam sample",
+    "LastModified": "1/31/2018 2:54:38 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 581,
+    "Abbreviation": "ug/scrubbie",
+    "Name": "micrograms per scrubbie sample",
+    "LastModified": "1/31/2018 2:54:39 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 582,
+    "Abbreviation": "ug/wipe",
+    "Name": "micrograms per wipe sample",
+    "LastModified": "1/31/2018 2:54:39 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 364,
+    "Abbreviation": "uL",
+    "Name": "Microliters",
+    "LastModified": "4/9/2015 1:40:55 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 370,
+    "Abbreviation": "um3",
+    "Name": "Cubic micrometers",
+    "LastModified": "1/19/2016 11:12:28 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 376,
+    "Abbreviation": "um3/100mL",
+    "Name": "Cubic micrometer per 100 milliliters",
+    "LastModified": "5/9/2016 9:43:33 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 272,
+    "Abbreviation": "um3/cm2",
+    "Name": "Cubic microns per square cm",
+    "LastModified": "11/24/2009 7:07:30 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 174,
+    "Abbreviation": "um3/l",
+    "Name": "Cubic microns per liter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 273,
+    "Abbreviation": "um3/ml",
+    "Name": "Cubic microns per ml",
+    "LastModified": "11/24/2009 7:07:30 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 310,
+    "Abbreviation": "umho",
+    "Name": "Electrical conductance, micro-mhos",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 60,
+    "Abbreviation": "umho/cm",
+    "Name": "Electrical conductivity, micro-mhos per centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 169,
+    "Abbreviation": "umol",
+    "Name": "Micromoles",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 264,
+    "Abbreviation": "umol/g",
+    "Name": "Micromoles per gram",
+    "LastModified": "2/27/2008 3:00:21 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 330,
+    "Abbreviation": "umol/kg",
+    "Name": "Micromoles per kilogram",
+    "LastModified": "3/7/2012 5:11:11 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 318,
+    "Abbreviation": "umol/L",
+    "Name": "Micromoles per liter",
+    "LastModified": "1/11/2012 3:59:08 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 170,
+    "Abbreviation": "umol/m2/s",
+    "Name": "Micromolesr square meter per second",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 167,
+    "Abbreviation": "umol/S/m2",
+    "Name": "Micromoles per siemen per square meter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 254,
+    "Abbreviation": "units/cm",
+    "Name": "Units per centimeter, for UV absorbance",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 31,
+    "Abbreviation": "uS/cm",
+    "Name": "Micro-Siemens per Centimeter",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 334,
+    "Abbreviation": "uW/cm2",
+    "Name": "Micro-watts per square centimeter",
+    "LastModified": "6/4/2012 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 61,
+    "Abbreviation": "volts",
+    "Name": "Electro-motive force, volts",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 63,
+    "Abbreviation": "Watts",
+    "Name": "Power, Watts",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 220,
+    "Abbreviation": "weeks",
+    "Name": "Weeks",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 287,
+    "Abbreviation": "y/m/d",
+    "Name": "Year/month/day",
+    "LastModified": "7/19/2010 3:16:29 PM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 141,
+    "Abbreviation": "yd",
+    "Name": "Yards",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 243,
+    "Abbreviation": "yd2",
+    "Name": "Square yards",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 230,
+    "Abbreviation": "yd3",
+    "Name": "Cubic yards",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Measurement Unit",
+    "ID": 222,
+    "Abbreviation": "years",
+    "Name": "Years",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  }
+]

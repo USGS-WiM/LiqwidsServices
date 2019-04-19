@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Administrator",
+    "description": "System Administrator",
+    "LastModified": "4/19/2019 1:30:47 PM"
+  },
+  {
+    "id": 2,
+    "name": "Manager",
+    "description": "Project Manager",
+    "LastModified": "4/19/2019 1:30:47 PM"
+  }
+]

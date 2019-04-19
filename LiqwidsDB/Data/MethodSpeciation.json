@@ -1,0 +1,394 @@
+[
+  {
+    "Domain": "Method Speciation",
+    "ID": 33,
+    "Name": "as ANC",
+    "Description": "acid neutralizing capacity is a measure for the overall buffering capacity against acidification for a solution, e.g. surface water or soil water.\nANC is defined dynamically as the amount of acid needed to change the pH value from the sample's value to a chosen different value.",
+    "LastModified": "4/5/2016 12:14:18 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 22,
+    "Name": "as As",
+    "Description": "",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 18,
+    "Name": "as B",
+    "Description": "",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 157,
+    "Name": "as Br",
+    "Description": "Bromine is a chemical element with atomic number 35. and atomic weight 79.904 u ± 0.001 u.  It is the third-lightest halogen.",
+    "LastModified": "4/26/2017 2:33:12 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 32,
+    "Name": "as C",
+    "Description": "Carbon is a chemical element with atomic number 6. and atomic weight 12.011 u ± 0.0006 u. It is the first element in group 14 (carbon group).",
+    "LastModified": "1/12/2016 10:43:17 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 25,
+    "Name": "as C3H6O2",
+    "Description": "",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 117,
+    "Name": "as Ca",
+    "Description": "Calcium is a chemical element with atomic number 20, and atomic weight 40.078(4 u ± 0.0006 u. It is the first element in group 2 (alkaline earth metals).",
+    "LastModified": "2/28/2017 12:28:57 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 12,
+    "Name": "as CaCO3",
+    "Description": "",
+    "LastModified": "7/23/2009 8:50:35 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 137,
+    "Name": "as CDOM",
+    "Description": "is the optically measurable component of the dissolved organic matter in water. CDOM most strongly absorbs short wavelength light ranging from blue to ultraviolet, whereas pure water absorbs longer wavelength red light. Therefore, non-turbid water with little or no CDOM appears blue. The color of water will range through green, yellow-green, and brown as CDOM increases.",
+    "LastModified": "3/30/2017 1:02:04 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 19,
+    "Name": "as Cl",
+    "Description": "",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 15,
+    "Name": "as CO3",
+    "Description": "",
+    "LastModified": "9/17/2009 9:58:40 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 198,
+    "Name": "as Color",
+    "Description": "Color or colour is the characteristic of human visual perception described through color categories.. Specify the color at which analyte is determined.  For research purposes or when analyte values are to be compared  among laboratories, vary or modify the analyte measure value of a given water over a wide range and record each corresponding color response.",
+    "LastModified": "12/13/2017 12:41:34 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 177,
+    "Name": "as Cr",
+    "Description": "Chromium is a chemical element with atomic number 24, and atomic weight 51.9961 u ± 0.0006 u. It is the first element in group 6.",
+    "LastModified": "11/8/2017 10:29:05 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 24,
+    "Name": "as DPA",
+    "Description": "",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 130,
+    "Name": "as EPARD_Z",
+    "Description": "Light, photosynthetic active radiation at depth (PAR) CALCULATED",
+    "LastModified": "4/20/2018 8:43:08 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 131,
+    "Name": "as EPARU_Z",
+    "Description": "Light, photosynthetic active radiation at depth (PAR)",
+    "LastModified": "4/20/2018 8:43:08 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 129,
+    "Name": "as EPAR_S",
+    "Description": "Light, photosynthetic active radiation (PAR)",
+    "LastModified": "4/20/2018 8:43:08 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 30,
+    "Name": "as ESBTU",
+    "Description": "Samples were assigned to risk categories according to ESBTU(FCV,43) values: no-risk (< or = 1), low (>1 - < or = 2), low-medium (>2 - < or = 3), medium (>3 - < or = 5) and high-risk (>5).",
+    "LastModified": "12/21/2015 2:51:43 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 20,
+    "Name": "as F",
+    "Description": "",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 17,
+    "Name": "as H",
+    "Description": "",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 14,
+    "Name": "as HCO3",
+    "Description": "",
+    "LastModified": "9/17/2009 9:58:34 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 217,
+    "Name": "as IWTU",
+    "Description": "Interstitial Water Benchmark in Toxic Units",
+    "LastModified": "1/26/2018 12:40:55 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 118,
+    "Name": "as K",
+    "Description": "Potassium is a chemical element with  atomic number 194, and atomic weight 39.0983 u ± 0.0006 u. It is the first element in group 1 (alkali metals).",
+    "LastModified": "2/28/2017 12:30:02 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 29,
+    "Name": "as LAS",
+    "Description": "Linear Alkylbenzene Sulfonate (LAS) Standard, 1mL = 1mg LAS, 1000ppm LAS, Ricca Chemical",
+    "LastModified": "12/12/2014 12:33:15 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 119,
+    "Name": "as Mg",
+    "Description": "Magnesium is a chemical element with atomic number 12, and atomic weight 24.305 u ± 0.002 u. It is group 2, or alkaline earth metals.",
+    "LastModified": "2/28/2017 12:31:20 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 1,
+    "Name": "as N",
+    "Description": "",
+    "LastModified": "7/18/2008 11:58:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 16,
+    "Name": "as Na",
+    "Description": "",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 2,
+    "Name": "as NH3",
+    "Description": "",
+    "LastModified": "7/18/2008 11:58:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 3,
+    "Name": "as NH4",
+    "Description": "",
+    "LastModified": "7/18/2008 11:58:01 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 4,
+    "Name": "as NO2",
+    "Description": "",
+    "LastModified": "7/18/2008 11:58:01 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 5,
+    "Name": "as NO3",
+    "Description": "",
+    "LastModified": "7/18/2008 11:58:02 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 21,
+    "Name": "as O2",
+    "Description": "Oxygen is a chemical element with atomic number 8, and atomic weight 15.999 u ± 0.0006 u. It is a member of the chalcogen group and By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium.",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 120,
+    "Name": "as OD480",
+    "Description": "Optical density, wavelength of 480 nm",
+    "LastModified": "4/19/2018 12:56:27 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 121,
+    "Name": "as OD510",
+    "Description": "Optical density, wavelength of 510 nm",
+    "LastModified": "4/19/2018 12:56:27 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 122,
+    "Name": "as OD630",
+    "Description": "Optical density, wavelength of 630 nm",
+    "LastModified": "4/19/2018 12:56:27 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 123,
+    "Name": "as OD645",
+    "Description": "Optical density, wavelength of 645 nm",
+    "LastModified": "4/19/2018 12:56:27 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 124,
+    "Name": "as OD647",
+    "Description": "Optical density, wavelength of 647 nm",
+    "LastModified": "4/19/2018 12:56:27 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 125,
+    "Name": "as OD663",
+    "Description": "Optical density, wavelength of 663 nm",
+    "LastModified": "4/19/2018 1:09:35 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 126,
+    "Name": "as OD664",
+    "Description": "Optical density, wavelength of 664 nm",
+    "LastModified": "4/19/2018 1:09:36 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 127,
+    "Name": "as OD665",
+    "Description": "Optical density, wavelength of 665 nm",
+    "LastModified": "4/19/2018 1:09:36 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 128,
+    "Name": "as OD750",
+    "Description": "Optical density, wavelength of 750 nm",
+    "LastModified": "4/19/2018 1:09:36 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 28,
+    "Name": "as OH",
+    "Description": "Hydroxide is a diatomic anion with chemical formula OH− and Molar mass: 17.01 g·mol−1. It consists of an oxygen and hydrogen atom held together by a covalent bond, and carries a negative electric charge. It is an important but usually minor constituent of water. It functions as a base.",
+    "LastModified": "10/15/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 6,
+    "Name": "as P",
+    "Description": "",
+    "LastModified": "7/18/2008 11:58:02 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 197,
+    "Name": "as pH",
+    "Description": "(potential of hydrogen) is a numeric scale used to specify the acidity or basicity of an aqueous solution.. Specify the pH at which analyte is determined.  For research purposes or when analyte values are to be compared  among laboratories, determine the analyte response of a given  water over a wide range of pH values.",
+    "LastModified": "12/13/2017 8:51:27 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 7,
+    "Name": "as PO4",
+    "Description": "",
+    "LastModified": "7/18/2008 11:58:03 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 237,
+    "Name": "as qPCR",
+    "Description": "bacteria studies involving real-time polymerase chain reaction (qPCR) tests",
+    "LastModified": "1/31/2018 3:35:45 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 27,
+    "Name": "as Ra226",
+    "Description": "Radium is a chemical element with atomic number 88, and mass number 226 (most stable isotope). Pure radium is silvery-white, but it readily reacts with nitrogen (rather than oxygen) on exposure to air, forming a black surface layer of radium nitride (Ra3N2). All isotopes of radium are highly radioactive, with the most stable isotope being radium-226, which has a half-life of 1600 years and decays into radon gas (specifically the isotope radon-222) It is the sixth element in group 2.",
+    "LastModified": "8/5/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 11,
+    "Name": "as S",
+    "Description": "",
+    "LastModified": "7/13/2009 10:08:42 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 23,
+    "Name": "as Se",
+    "Description": "",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 13,
+    "Name": "as Si",
+    "Description": "",
+    "LastModified": "7/31/2009 10:47:37 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 10,
+    "Name": "as SiO2",
+    "Description": "",
+    "LastModified": "5/4/2010 10:08:42 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 31,
+    "Name": "as Sn",
+    "Description": "Tin is a chemical element with and atomic number 50, and atomic weight 118.710 u ± 0.0006 u. It is a post-transition metal in group 14.",
+    "LastModified": "1/8/2016 12:22:57 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 8,
+    "Name": "as SO3",
+    "Description": "",
+    "LastModified": "4/28/2009 3:36:34 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 9,
+    "Name": "as SO4",
+    "Description": "",
+    "LastModified": "4/28/2009 3:36:34 PM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 26,
+    "Name": "as U3O8",
+    "Description": "",
+    "LastModified": "7/31/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Method Speciation",
+    "ID": 257,
+    "Name": "None",
+    "Description": "None",
+    "LastModified": "3/7/2018 8:55:18 AM"
+  }
+]

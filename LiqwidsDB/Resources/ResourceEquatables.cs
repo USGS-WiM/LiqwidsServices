@@ -57,7 +57,7 @@ namespace LiqwidsDB.Resources
     {
         public bool Equals(ActivityType other)
         {
-            return String.Equals(this.Name, other.Name);
+            return String.Equals(this.Code, other.Code);
 
         }
         public override bool Equals(object obj)
@@ -69,7 +69,7 @@ namespace LiqwidsDB.Resources
         }
         public override int GetHashCode()
         {
-            return (this.Name).GetHashCode();
+            return (this.Code).GetHashCode();
         }
     }
     public partial class AnalyticalMethod : IEquatable<AnalyticalMethod>
@@ -299,7 +299,7 @@ namespace LiqwidsDB.Resources
     {
         public bool Equals(MeasureQualifier other)
         {
-            return String.Equals(this.Name, other.Name);
+            return String.Equals(this.Code, other.Code);
 
         }
         public override bool Equals(object obj)
@@ -311,7 +311,7 @@ namespace LiqwidsDB.Resources
         }
         public override int GetHashCode()
         {
-            return (this.Name).GetHashCode();
+            return (this.Code).GetHashCode();
         }
     }
     public partial class Media : IEquatable<Media>

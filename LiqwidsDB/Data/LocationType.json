@@ -1,0 +1,709 @@
+[
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 86,
+    "Name": "Atmosphere",
+    "Description": "Atmosphere monitoring stations provide weather data about conditions",
+    "LastModified": "11/20/2013 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 58,
+    "Name": "BEACH Program Site-Channelized stream",
+    "Description": "The process of straightening or redirecting natural streams in an artificially modified or constructed stream bed. Channelization has been carried out for numerous reasons, most often to drain wetlands , direct water flow for agricultural use, and control flooding . While this process makes a stream more useful for human activities, it tends to interfere with natural river habitats and to destabilize stream banks by destroying riparian vegetation.",
+    "LastModified": "8/11/2007 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 59,
+    "Name": "BEACH Program Site-Estuary",
+    "Description": "a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea\nEstuaries form a transition zone between river environments and maritime environments. \nThe sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.",
+    "LastModified": "8/11/2007 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 60,
+    "Name": "BEACH Program Site-Great Lake",
+    "Description": "",
+    "LastModified": "8/11/2007 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 61,
+    "Name": "BEACH Program Site-Lake",
+    "Description": "",
+    "LastModified": "8/11/2007 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 63,
+    "Name": "BEACH Program Site-Land",
+    "Description": "",
+    "LastModified": "8/11/2007 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 62,
+    "Name": "BEACH Program Site-Land runoff",
+    "Description": "",
+    "LastModified": "8/11/2007 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 64,
+    "Name": "BEACH Program Site-Ocean",
+    "Description": "",
+    "LastModified": "8/11/2007 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 65,
+    "Name": "BEACH Program Site-River/Stream",
+    "Description": "",
+    "LastModified": "8/11/2007 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 66,
+    "Name": "BEACH Program Site-Storm sewer",
+    "Description": "",
+    "LastModified": "4/1/2008 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 67,
+    "Name": "BEACH Program Site-Waste sewer",
+    "Description": "",
+    "LastModified": "4/1/2008 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 6,
+    "Name": "Borehole",
+    "Description": "A borehole is a narrow shaft bored in the ground, either vertically or horizontally. A borehole may be constructed for many different purposes, including the extraction of water, other liquids (such as petroleum) or gases (such as natural gas), as part of a geotechnical investigation, environmental site assessment,",
+    "LastModified": "5/11/2011 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 1,
+    "Name": "Canal Drainage",
+    "Description": "As a channel drainage system it is designed to eliminate the need for further pipework systems to be installed in parallel to the drainage, reducing the environmental impact of production as well as improving water collection.",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 2,
+    "Name": "Canal Irrigation",
+    "Description": "Irrigation canals are the main waterways that bring irrigation water from a water source to the areas to be irrigated. They can be lined with concrete, brick, stone, or a flexible membrane to prevent seepage and erosion.",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 3,
+    "Name": "Canal Transport",
+    "Description": "Canals are human-made channels for water conveyance, or to service water transport vehicles. In most cases, the engineered works will have a series of dams and locks that create areas of low speed current flow. These areas are referred to as slack water levels, often just called levels.",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 4,
+    "Name": "Cave",
+    "Description": "A cave is a hollow place in the ground, specifically a natural underground space large enough for a human to enter. Caves form naturally by the weathering of rock and often extend deep underground.",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 5,
+    "Name": "CERCLA Superfund Site",
+    "Description": "The Superfund site assessment process evaluates potential or confirmed releases of hazardous substances that may pose a threat to human health or the environment using the Hazard Ranking System (HRS) criteria guide",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 10,
+    "Name": "Channelized Stream",
+    "Description": "The process of straightening or redirecting natural streams in an artificially modified or constructed stream bed. Channelization has been carried out for numerous reasons, most often to drain wetlands , direct water flow for agricultural use, and control flooding . While this process makes a stream more useful for human activities, it tends to interfere with natural river habitats and to destabilize stream banks by destroying riparian vegetation.",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 11,
+    "Name": "Combined Sewer",
+    "Description": "A combined sewer system (CSS) collects rainwater runoff, domestic sewage, and industrial wastewater into one pipe. Under normal conditions, it transports all of the wastewater it collects to a sewage treatment plant for treatment, then discharges to a water body. Combined sewer overflows (CSOs) contain untreated or partially treated human and industrial waste, toxic materials, and debris as well as stormwater.",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 87,
+    "Name": "Constructed Diversion Dam",
+    "Description": "A diversion dam is a dam that diverts all or a portion of the flow of a river from its natural course. Diversion dams do not generally impound water in a reservoir. Instead, the water is diverted into an artificial water course or canal, which may be used for irrigation or return to the river after passing through hydroelectric generators, flow into a different river or be itself dammed forming a reservoir.",
+    "LastModified": "11/20/2013 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 88,
+    "Name": "Constructed Tunnel",
+    "Description": "an artificial underground passage, especially one built through a hill or under a building, road, or river.",
+    "LastModified": "11/20/2013 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 89,
+    "Name": "Constructed Water Transport Structure",
+    "Description": "a system of structures and measures that support the  intentional movement of water over large distances. simple aqueducts to transport water above ground level; short pipelines to transport water above or under another structure such as a water canal or an access road",
+    "LastModified": "12/2/2013 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 12,
+    "Name": "Constructed Wetland",
+    "Description": "A constructed wetland (CW) is an artificial wetland to treat municipal or industrial wastewater, greywater or stormwater runoff. It may also be designed for land reclamation after mining, or as a mitigation step for natural areas lost to land development.Constructed wetlands are engineered systems that use natural functions vegetation, soil, and organisms to treat wastewater",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 13,
+    "Name": "Estuary",
+    "Description": "a partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea\nEstuaries form a transition zone between river environments and maritime environments. \nThe sea water entering the estuary is diluted by the fresh water flowing from rivers and streams.",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 14,
+    "Name": "Facility Industrial",
+    "Description": "a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal; \"the price of the house included all utilities",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 15,
+    "Name": "Facility Municipal Sewage (POTW)",
+    "Description": "Treatment works treating domestic sewage means a POTW or any other sewage sludge or waste water treatment devices or systems, regardless of ownership (including federal facilities), used in the storage, treatment, recycling, and reclamation of municipal or domestic sewage, including land dedicated for the disposal of sewage sludge. This definition does not include septic tanks or similar devices.",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 17,
+    "Name": "Facility Other",
+    "Description": "a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as Reclaimed water can supply needed water for some purposes Reclaimed wastewater frees up fresh water that can be used somewhere else, such as for drinking water",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 18,
+    "Name": "Facility Privately Owned Non-industrial",
+    "Description": "Privately owned treatment works means any device or system which is (a) used to treat wastes from any facility whose operator is not the operator of the treatment works",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 16,
+    "Name": "Facility Public Water Supply (PWS)",
+    "Description": "A Public Water System is a public water supply for the provision to the public of piped water for human consumption, A Public Water System includes any collection, treatment, storage,\nand distribution facilities under control of such system, including the operator or administrator of such system, and is used primarily in\nconnection with such system and any collection or pretreatment storage facilities not under such control which are used primarily in\nconnection with such system.”",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 73,
+    "Name": "Floodwater non-Urban",
+    "Description": "A flood is an overflow of water that submerges land that is usually dry  Flooding may occur as an overflow of water from water bodies, such as a river, lake, or ocean, in which the water overtops or breaks levees, resulting in some of that water escaping its usual boundaries",
+    "LastModified": "1/11/2012 5:40:10 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 72,
+    "Name": "Floodwater Urban",
+    "Description": "A flood is an overflow of water that submerges land that is usually dry  In the sense of \"urban runoff water\". it may occur due to an accumulation of rainwater on saturated ground in an areal flood.",
+    "LastModified": "1/11/2012 5:40:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 19,
+    "Name": "Gallery",
+    "Description": "An infiltration gallery is a structure including perforated conduits in gravel to expedite transfer of water to or from a soil.",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 76,
+    "Name": "Gas-Condensate",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 77,
+    "Name": "Gas-Engine",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 78,
+    "Name": "Gas-Extraction",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 79,
+    "Name": "Gas-Flare",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 80,
+    "Name": "Gas-Monitoring Probe",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 81,
+    "Name": "Gas-Passive Vent",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 92,
+    "Name": "Gas-Subslab",
+    "Description": "",
+    "LastModified": "8/4/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 82,
+    "Name": "Gas-Temporary",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 20,
+    "Name": "Great Lake",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 21,
+    "Name": "Lake",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 50,
+    "Name": "Land",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 22,
+    "Name": "Land Flood Plain",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 23,
+    "Name": "Land Runoff",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 24,
+    "Name": "Landfill",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 83,
+    "Name": "Leachate-Extraction",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 84,
+    "Name": "Leachate-Head Well",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 71,
+    "Name": "Leachate-Lysimeter",
+    "Description": "",
+    "LastModified": "12/22/2011 2:13:01 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 85,
+    "Name": "Leachate-SamplePoint",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 91,
+    "Name": "Local Air Monitoring Station",
+    "Description": "",
+    "LastModified": "1/24/2014 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 95,
+    "Name": "Mine Pit",
+    "Description": "",
+    "LastModified": "10/15/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 25,
+    "Name": "Mine/Mine Discharge",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 26,
+    "Name": "Mine/Mine Discharge Adit (Mine Entrance)",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 27,
+    "Name": "Mine/Mine Discharge Tailings Pile",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 28,
+    "Name": "Mine/Mine Discharge Waste Rock Pile",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 29,
+    "Name": "National Air Monitoring Station",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 30,
+    "Name": "Ocean",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 90,
+    "Name": "Oil and Gas Well",
+    "Description": "",
+    "LastModified": "12/2/2013 5:35:47 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 52,
+    "Name": "Other-Ground Water",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 51,
+    "Name": "Other-Surface Water",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 57,
+    "Name": "Pipe, Unspecified Source",
+    "Description": "",
+    "LastModified": "11/20/2006 1:45:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 54,
+    "Name": "Playa",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 70,
+    "Name": "Pond-Anchialine",
+    "Description": "",
+    "LastModified": "9/16/2011 2:15:16 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 93,
+    "Name": "Pond-Sediment",
+    "Description": "",
+    "LastModified": "10/15/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 94,
+    "Name": "Pond-Stock",
+    "Description": "",
+    "LastModified": "10/15/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 68,
+    "Name": "Pond-Stormwater",
+    "Description": "",
+    "LastModified": "2/18/2009 11:40:43 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 75,
+    "Name": "Pond-Wastewater",
+    "Description": "",
+    "LastModified": "10/17/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 31,
+    "Name": "Reservoir",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 32,
+    "Name": "River/Stream",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 74,
+    "Name": "River/stream Effluent-Dominated",
+    "Description": "",
+    "LastModified": "3/13/2013 3:00:09 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 69,
+    "Name": "River/Stream Ephemeral",
+    "Description": "",
+    "LastModified": "6/30/2009 2:15:16 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 55,
+    "Name": "River/Stream Intermittent",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 56,
+    "Name": "River/Stream Perennial",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 33,
+    "Name": "Riverine Impoundment",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 53,
+    "Name": "Seep",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 7,
+    "Name": "Spigot / Faucet",
+    "Description": "",
+    "LastModified": "5/11/2011 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 34,
+    "Name": "Spring",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 35,
+    "Name": "State/Local Air Monitoring Station",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 36,
+    "Name": "Storm Sewer",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 181,
+    "Name": "Sump",
+    "Description": "A sump is a shallow borehole (no well construction) that intersects the water table",
+    "LastModified": "12/17/2018 6:52:32 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 8,
+    "Name": "Survey Monument",
+    "Description": "",
+    "LastModified": "5/11/2011 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 9,
+    "Name": "Test Pit",
+    "Description": "",
+    "LastModified": "5/11/2011 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 37,
+    "Name": "Waste Pit",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 38,
+    "Name": "Waste Sewer",
+    "Description": "",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 39,
+    "Name": "Well",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 161,
+    "Name": "Wetland Estuarine-Ditch",
+    "Description": "Open water estuary, bay, sound Vegetated and non-vegetated brackish and saltwater ditch",
+    "LastModified": "9/26/2017 1:06:50 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 40,
+    "Name": "Wetland Estuarine-Emergent",
+    "Description": "Open water estuary, bay, sound Herbaceous marsh, fen, swale and wet meadow",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 41,
+    "Name": "Wetland Estuarine-Forested",
+    "Description": "Open water estuary, bay, sound Vegetated brackish and saltwater forest",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 163,
+    "Name": "Wetland Estuarine-Marsh",
+    "Description": "Open water estuary, bay, sound Vegetated brackish and saltwater marsh",
+    "LastModified": "9/26/2017 1:06:50 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 165,
+    "Name": "Wetland Estuarine-Pool",
+    "Description": "Open water estuary, bay, sound Vegetated brackish and saltwater pool: lagoons",
+    "LastModified": "9/20/2017 6:51:09 AM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 42,
+    "Name": "Wetland Estuarine-Scrub-Shrub",
+    "Description": "Open water estuary, bay, sound Vegetated brackish and saltwater scrub-shrub",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 162,
+    "Name": "Wetland Estuarine-Tidal Creek",
+    "Description": "Open water estuary, bay, sound Vegetated brackish and saltwater tidal creek",
+    "LastModified": "9/26/2017 1:06:50 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 43,
+    "Name": "Wetland Lacustrine-Emergent",
+    "Description": "bounded by upland or by wetland dominated by trees, shrubs, persistent emergents, emergent mosses, or lichens",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 96,
+    "Name": "Wetland Palustrine Pond",
+    "Description": "includes all nontidal wetlands dominated by pond and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰",
+    "LastModified": "8/6/2015 2:12:48 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 44,
+    "Name": "Wetland Palustrine-Emergent",
+    "Description": "includes all nontidal wetlands characterized by erect, rooted, herbaceous hydrophytes, excluding mosses and lichens and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 45,
+    "Name": "Wetland Palustrine-Forested",
+    "Description": "includes all nontidal wetlands dominated by trees, forest, and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 46,
+    "Name": "Wetland Palustrine-Moss-Lichen",
+    "Description": "includes all nontidal wetlands dominated by mosses or lichens, and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 47,
+    "Name": "Wetland Palustrine-Shrub-Scrub",
+    "Description": "includes all nontidal wetlands dominated by, shrubs, scrub and all such wetlands that occur in tidal areas where salinity due to ocean-derived salts is below 0.5 ‰",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 48,
+    "Name": "Wetland Riverine-Emergent",
+    "Description": "wetlands connected by rivers. ... They are found along the edges of rivers, streams and creeks and include rivers, floodplains, marshes, lakes and billabongs. characterized by erect, rooted, herbaceous hydrophytes, excluding mosses and lichens",
+    "LastModified": "8/11/2006 11:18:28 PM"
+  },
+  {
+    "Domain": "Monitoring Location Type(MonitoringLocationTypeName)",
+    "ID": 49,
+    "Name": "Wetland Undifferentiated",
+    "Description": "a land area that is saturated with water, either permanently or seasonally, It primarily is characteristized by vegetation of aquatic plants, adapted to the unique hydric soil.",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  }
+]

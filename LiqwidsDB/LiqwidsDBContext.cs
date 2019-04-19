@@ -27,6 +27,9 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using System.Collections.Generic;
 using System;
 using System.IO;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
+
 
 //specifying the data provider and connection string
 namespace LiqwidsDB
@@ -67,13 +70,34 @@ namespace LiqwidsDB
             //schema
             modelBuilder.HasDefaultSchema("liqwids");
             //unique key based on combination of both keys (many to many tables)
-            //modelBuilder.Entity<RegionManager>().HasKey(k => new { k.ManagerID, k.RegionID });
+            modelBuilder.Entity<DetectionLimit>().HasKey(k => new { k.ResultID, k.LimitID });
 
             // Specify other unique constraints
             //EF Core currently does not support changing the value of alternate keys. We do have #4073 tracking removing this restriction though.
             //BTW it only needs to be an alternate key if you want it to be used as the target key of a relationship.If you just want a unique index, 
             //then use the HasIndex() method, rather than AlternateKey().Unique index values can be changed.
-            //modelBuilder.Entity<Manager>().HasIndex(k => k.Username);
+            modelBuilder.Entity<User>().HasIndex(k => k.Username);
+            modelBuilder.Entity<Role>().HasIndex(k => k.Name);
+            modelBuilder.Entity<LocationType>().HasIndex(k => k.Name);
+            modelBuilder.Entity<HorizontalCollectionMethod>().HasIndex(k => k.Name);
+            modelBuilder.Entity<HorizontalDatum>().HasIndex(k => k.Name);
+            modelBuilder.Entity<Location>().HasIndex(k => k.Name);
+            modelBuilder.Entity<MethodSpeciation>().HasIndex(k => k.Name);
+            modelBuilder.Entity<Resources.ValueType>().HasIndex(k => k.Name);
+            modelBuilder.Entity<Characteristic>().HasIndex(k => k.Name);
+            modelBuilder.Entity<SampleFraction>().HasIndex(k => k.Name);
+            modelBuilder.Entity<Status>().HasIndex(k => k.Name);
+            modelBuilder.Entity<StatisticalBase>().HasIndex(k => k.Code);
+            modelBuilder.Entity<AnalyticalMethod>().HasIndex(k => k.Identifier);
+            modelBuilder.Entity<ActivityType>().HasIndex(k => k.Code);
+            modelBuilder.Entity<CollectionMethod>().HasIndex(k => k.Name);
+            modelBuilder.Entity<Media>().HasIndex(k => k.Name);
+            modelBuilder.Entity<CollectionEquipment>().HasIndex(k => k.Name);
+            modelBuilder.Entity<DetectionCondition>().HasIndex(k => k.Name);
+            modelBuilder.Entity<MeasureQualifier>().HasIndex(k => k.Code);
+            modelBuilder.Entity<Limit>().HasIndex(k => k.Name);
+            modelBuilder.Entity<Unit>().HasIndex(k => k.Name);
+            modelBuilder.Entity<Project>().HasIndex(k => k.Name);
 
             // add shadowstate
             //https://stackoverflow.com/questions/9556474/how-do-i-automatically-update-a-timestamp-in-postgresql
@@ -194,28 +218,57 @@ namespace LiqwidsDB
                     .WithMany()
                     .HasForeignKey("ActivityID")
                     .OnDelete(DeleteBehavior.Restrict);
-
             });
 
             modelBuilder.Entity(typeof(DetectionLimit).ToString(), b =>
             {
-                b.HasOne(typeof(Result).ToString(), "HorizontalCollectionMethod")
+                b.HasOne(typeof(Limit).ToString(), "Limit")
                     .WithMany()
-                    .HasForeignKey("HorizontalCollectionMethodID")
+                    .HasForeignKey("LimitID")
                     .OnDelete(DeleteBehavior.Restrict);
+
+                b.HasOne(typeof(Unit).ToString(), "Unit")
+                    .WithMany()
+                    .HasForeignKey("UnitID")
+                    .OnDelete(DeleteBehavior.Restrict);
+
             });
-                //seed the db
-                var path = Path.Combine(Environment.CurrentDirectory, "Data");
-            //modelBuilder.Entity<LiqwidsResource>().HasData(JsonConvert.DeserializeObject<LiqwidsResource[]>(File.ReadAllText(Path.Combine(path, "Liqwids.json"))));
+            modelBuilder.Entity<Result>()
+                .HasOne(a => a.DetectionLimit)
+                .WithOne(b => b.Result)
+                .HasForeignKey<DetectionLimit>(b => b.ResultID);
+                
+            //12/21/2015 2:28:18 PM
+            var format = "d/M/yyyy h:mm:ss tt";
+            var dateTimeConverter = new IsoDateTimeConverter { DateTimeFormat = format };
 
-
+            //seed the db
+            var path = Path.Combine(Environment.CurrentDirectory, "Data");
+            modelBuilder.Entity<ActivityType>().HasData(JsonConvert.DeserializeObject<ActivityType[]>(File.ReadAllText(Path.Combine(path, "ActivityType.json")),dateTimeConverter));
+            modelBuilder.Entity<AnalyticalMethod>().HasData(JsonConvert.DeserializeObject<AnalyticalMethod[]>(File.ReadAllText(Path.Combine(path, "AnalyticalMethod.json")), dateTimeConverter));
+            modelBuilder.Entity<Characteristic>().HasData(JsonConvert.DeserializeObject<Characteristic[]>(File.ReadAllText(Path.Combine(path, "Characteristic.json")), dateTimeConverter));
+            modelBuilder.Entity<CollectionEquipment>().HasData(JsonConvert.DeserializeObject<CollectionEquipment[]>(File.ReadAllText(Path.Combine(path, "CollectionEquipment.json")), dateTimeConverter));
+            modelBuilder.Entity<DetectionCondition>().HasData(JsonConvert.DeserializeObject<DetectionCondition[]>(File.ReadAllText(Path.Combine(path, "DetectionCondition.json")), dateTimeConverter));
+            modelBuilder.Entity<HorizontalCollectionMethod>().HasData(JsonConvert.DeserializeObject<HorizontalCollectionMethod[]>(File.ReadAllText(Path.Combine(path, "HorizontalCollectionMethod.json")), dateTimeConverter));
+            modelBuilder.Entity<HorizontalDatum>().HasData(JsonConvert.DeserializeObject<HorizontalDatum[]>(File.ReadAllText(Path.Combine(path, "HorizontalDatum.json")), dateTimeConverter));
+            modelBuilder.Entity<Limit>().HasData(JsonConvert.DeserializeObject<Limit[]>(File.ReadAllText(Path.Combine(path, "Limit.json")), dateTimeConverter));
+            modelBuilder.Entity<LocationType>().HasData(JsonConvert.DeserializeObject<LocationType[]>(File.ReadAllText(Path.Combine(path, "LocationType.json")), dateTimeConverter));
+            modelBuilder.Entity<MeasureQualifier>().HasData(JsonConvert.DeserializeObject<MeasureQualifier[]>(File.ReadAllText(Path.Combine(path, "MeasureQualifier.json")), dateTimeConverter));
+            modelBuilder.Entity<Media>().HasData(JsonConvert.DeserializeObject<Media[]>(File.ReadAllText(Path.Combine(path, "Media.json")), dateTimeConverter));
+            modelBuilder.Entity<MethodSpeciation>().HasData(JsonConvert.DeserializeObject<MethodSpeciation[]>(File.ReadAllText(Path.Combine(path, "MethodSpeciation.json")), dateTimeConverter));
+            modelBuilder.Entity<Role>().HasData(JsonConvert.DeserializeObject<Role[]>(File.ReadAllText(Path.Combine(path, "Role.json")), dateTimeConverter));
+            modelBuilder.Entity<SampleFraction>().HasData(JsonConvert.DeserializeObject<SampleFraction[]>(File.ReadAllText(Path.Combine(path, "SampleFraction.json")), dateTimeConverter));
+            modelBuilder.Entity<StatisticalBase>().HasData(JsonConvert.DeserializeObject<StatisticalBase[]>(File.ReadAllText(Path.Combine(path, "StatisticalBase.json")), dateTimeConverter));
+            modelBuilder.Entity<Status>().HasData(JsonConvert.DeserializeObject<Status[]>(File.ReadAllText(Path.Combine(path, "Status.json")), dateTimeConverter));
+            modelBuilder.Entity<Unit>().HasData(JsonConvert.DeserializeObject<Unit[]>(File.ReadAllText(Path.Combine(path, "Unit.json")), dateTimeConverter));
+            modelBuilder.Entity<Resources.ValueType>().HasData(JsonConvert.DeserializeObject<Resources.ValueType[]>(File.ReadAllText(Path.Combine(path, "ValueType.json")), dateTimeConverter));
 
             base.OnModelCreating(modelBuilder);             
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
 #warning Add connectionstring for migrations
-            var connectionstring = "User ID=;Password=;Host=;Port=5432;Database=;Pooling=true;";
+            var connectionstring = "User ID=;Password=;Host=;Port=5432;Database=LiquidsDB;Pooling=true;";
             //optionsBuilder.UseNpgsql(connectionstring);
         }
     }

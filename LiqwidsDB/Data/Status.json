@@ -1,0 +1,65 @@
+[
+  {
+    "Domain": "Result Status(ResultStatusIdentifier)",
+    "ID": 1,
+    "Name": "Accepted",
+    "Description": "Reported result has been accepted",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Status(ResultStatusIdentifier)",
+    "ID": 5,
+    "Name": "Final",
+    "Description": "Publishable, released to public",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Status(ResultStatusIdentifier)",
+    "ID": 4,
+    "Name": "Preliminary",
+    "Description": "internal use only, not released to public",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Status(ResultStatusIdentifier)",
+    "ID": 7,
+    "Name": "Provisional",
+    "Description": "Reported result has not been verified, not undergone all QC procedures.",
+    "LastModified": "5/20/2016 2:19:19 PM"
+  },
+  {
+    "Domain": "Result Status(ResultStatusIdentifier)",
+    "ID": 8,
+    "Name": "Raw",
+    "Description": "state of original collection, not undergone any QC procedures.",
+    "LastModified": "6/22/2016 12:11:27 PM"
+  },
+  {
+    "Domain": "Result Status(ResultStatusIdentifier)",
+    "ID": 3,
+    "Name": "Rejected",
+    "Description": "Reported result has not been accepted",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Status(ResultStatusIdentifier)",
+    "ID": 71,
+    "Name": "Supervised",
+    "Description": "Observe and direct the execution of tasks as project management staff",
+    "LastModified": "10/29/2018 9:40:45 AM"
+  },
+  {
+    "Domain": "Result Status(ResultStatusIdentifier)",
+    "ID": 6,
+    "Name": "Unreviewed",
+    "Description": "Reported result has not been reviewed",
+    "LastModified": "5/18/2016 7:54:43 AM"
+  },
+  {
+    "Domain": "Result Status(ResultStatusIdentifier)",
+    "ID": 2,
+    "Name": "Validated",
+    "Description": "Reported result has been verified and reviewed",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  }
+]

@@ -1,0 +1,1762 @@
+[
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 85,
+    "Name": "A-Frame Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 126,
+    "Name": "Activity Trap",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 17,
+    "Name": "Anchor Box Dredge",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 127,
+    "Name": "Artificial Substrate",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 298,
+    "Name": "Backhoe",
+    "Type": "Soil Sampler",
+    "Description": "An excavator to which a shovel bucket is attached to a hinged boom and is drawn backward to excavate materials.",
+    "LastModified": "1/26/2018 12:20:41 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 47,
+    "Name": "Backpack Electroshock",
+    "Type": "Electroshock",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 86,
+    "Name": "Beach Seine Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 71,
+    "Name": "Beam Trawl",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 12,
+    "Name": "Benthic Corer (Other)",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 23,
+    "Name": "Benthic Dredge (Other)",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 36,
+    "Name": "Benthic Grab (Other)",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 120,
+    "Name": "Birge Closing Net",
+    "Type": "Net/Vertical Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 128,
+    "Name": "Black Light Trap",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 87,
+    "Name": "Block Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 48,
+    "Name": "Boat-Mounted Electroshock",
+    "Type": "Electroshock",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 18,
+    "Name": "Bod Dredge",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 72,
+    "Name": "Bongo Net",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 1,
+    "Name": "Boomerang Corer",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 28,
+    "Name": "Boomerang Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 2,
+    "Name": "Box Corer",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 129,
+    "Name": "Box Sampler",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 19,
+    "Name": "Brail",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 151,
+    "Name": "Bucket",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 20,
+    "Name": "Burrell Epibenthic Sled",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 29,
+    "Name": "Campbell Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 190,
+    "Name": "Cast Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "6/19/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 88,
+    "Name": "Center Bag",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 21,
+    "Name": "Chain Dredge",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 30,
+    "Name": "Clam-Shell Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 121,
+    "Name": "Clarke-Bumpus Net",
+    "Type": "Net/Vertical Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 53,
+    "Name": "Concussion",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 54,
+    "Name": "Creel Survey",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 90,
+    "Name": "D-Frame Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 89,
+    "Name": "Danish Seine Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 3,
+    "Name": "Dart Corer (Gravity)",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 176,
+    "Name": "DH-81",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "12/8/2011 4:51:38 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 175,
+    "Name": "DH-95",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "12/8/2011 4:51:38 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 31,
+    "Name": "Dietz-Lafond Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 91,
+    "Name": "Dip Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 203,
+    "Name": "Disposable plastic scoop",
+    "Type": "Soil Sampler",
+    "Description": "",
+    "LastModified": "2/19/2016 8:25:18 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 55,
+    "Name": "Draw Down",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 92,
+    "Name": "Drift Gill Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 4,
+    "Name": "Drilled Sampler",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 5,
+    "Name": "Drive Sampler (Generic)",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 93,
+    "Name": "Drop Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 32,
+    "Name": "Ekman Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 49,
+    "Name": "Electric Seine",
+    "Type": "Electroshock",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 50,
+    "Name": "Electroshock (Other)",
+    "Type": "Electroshock",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 130,
+    "Name": "Emergence Trap",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 94,
+    "Name": "English Umbrella Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 6,
+    "Name": "Erwin Piston Corer",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 7,
+    "Name": "Ewing Gravity Corer",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 213,
+    "Name": "Excavator bucket",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "4/28/2016 11:49:39 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 22,
+    "Name": "Experimental Brail",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 95,
+    "Name": "Experimental Gill Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 131,
+    "Name": "Fish Weir",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 33,
+    "Name": "Free Fall Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 132,
+    "Name": "Fry Trap",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 133,
+    "Name": "Funnel Trap",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 96,
+    "Name": "Fyke Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 188,
+    "Name": "Glass fiber filter",
+    "Type": "Air Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 134,
+    "Name": "Glass Slide",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 45,
+    "Name": "Glass Slide Device",
+    "Type": "Diatometer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 8,
+    "Name": "Gravity Corer (Generic)",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 9,
+    "Name": "Hand Corer",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 318,
+    "Name": "Hanging Bag",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "1/31/2018 12:36:31 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 73,
+    "Name": "Herring Trawl",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 135,
+    "Name": "Hess Sampler",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 136,
+    "Name": "Hester-Dendy",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 204,
+    "Name": "Hivol Modified, Quartz Filter",
+    "Type": "Air Sampler",
+    "Description": "",
+    "LastModified": "2/26/2016 3:02:42 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 205,
+    "Name": "Hivol Modified, XAD Resin",
+    "Type": "Air Sampler",
+    "Description": "",
+    "LastModified": "2/26/2016 3:02:43 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 56,
+    "Name": "Hook And Line",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 212,
+    "Name": "Horizontal Secchi Disk",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "3/17/2016 3:35:20 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 34,
+    "Name": "Hydraulic Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 278,
+    "Name": "Hydraulic Push Core/Geoprobe",
+    "Type": "Soil Sampler",
+    "Description": "",
+    "LastModified": "8/30/2017 4:18:02 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 57,
+    "Name": "Hydroacoustics",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 10,
+    "Name": "Hydroplastic (PVC) Corer",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 338,
+    "Name": "Ice Auger",
+    "Type": "Soil Sampler",
+    "Description": "",
+    "LastModified": "3/14/2018 3:45:56 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 137,
+    "Name": "Insect Trap",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 74,
+    "Name": "Isaacs-Kidd Trawl",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 138,
+    "Name": "Juday Trap",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 153,
+    "Name": "Kemmerer Bottle",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 97,
+    "Name": "Kick Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 11,
+    "Name": "Kullenberg Gravity Corer",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 139,
+    "Name": "Larval Light Fish Trap",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 58,
+    "Name": "Long Line",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 98,
+    "Name": "Marmap Neuston Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 189,
+    "Name": "Meteorological Data",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 206,
+    "Name": "MIC-B, XAD Resin",
+    "Type": "Air Sampler",
+    "Description": "",
+    "LastModified": "2/26/2016 3:02:43 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 99,
+    "Name": "Minnow Seine Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 59,
+    "Name": "Miscellaneous (Other)",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 100,
+    "Name": "Mochness Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 140,
+    "Name": "Modified Surber Sampler",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 101,
+    "Name": "MTD Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 154,
+    "Name": "Nansen Bottle",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 141,
+    "Name": "Natural Substrate",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 122,
+    "Name": "Net Vertical Tow (Other)",
+    "Type": "Net/Vertical Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 75,
+    "Name": "Net/Horizontal Tow (Other)",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 103,
+    "Name": "Net/Non Tow (Other)",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 155,
+    "Name": "Niskin Bottle",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 102,
+    "Name": "Norpac Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 35,
+    "Name": "Orange-Peel Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 142,
+    "Name": "Original Surber Sampler",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 60,
+    "Name": "Other Toxicant",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 76,
+    "Name": "Otter Trawl",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 77,
+    "Name": "Pair Trawl",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 13,
+    "Name": "Pamatmat Multiple Quartz Corer",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 37,
+    "Name": "Peterson Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 38,
+    "Name": "Petite Ponar Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 211,
+    "Name": "pH Comparator",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "3/17/2016 3:35:20 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 210,
+    "Name": "pH Paper",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "3/17/2016 3:35:20 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 14,
+    "Name": "Phleger Corer (Gravity)",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 24,
+    "Name": "Pipe Dredge",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 15,
+    "Name": "Piston Corer (Generic)",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 123,
+    "Name": "Plankton Net",
+    "Type": "Net/Vertical Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 46,
+    "Name": "Plexiglass Slide Device",
+    "Type": "Diatometer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 144,
+    "Name": "Plexiglass Trap",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 104,
+    "Name": "Plummet Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 173,
+    "Name": "Polar Orga. Chem. Integrative Sampler",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "12/8/2011 4:41:07 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 320,
+    "Name": "Polyethylene wipe",
+    "Type": "Miscellaneous/Other",
+    "Description": "Polyethylene wipe",
+    "LastModified": "1/31/2018 2:58:51 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 191,
+    "Name": "Polyurethane Foam matrix",
+    "Type": "Air Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 39,
+    "Name": "Ponar Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 105,
+    "Name": "Pound Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 51,
+    "Name": "Pram Electroshock",
+    "Type": "Electroshock",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 169,
+    "Name": "Probe/Sensor",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "11/7/2008 3:26:51 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 319,
+    "Name": "PTFE netting",
+    "Type": "Miscellaneous/Other",
+    "Description": "Teflon netting used to measure water surface",
+    "LastModified": "1/31/2018 2:58:51 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 25,
+    "Name": "Pull Sled",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 157,
+    "Name": "Pump/Air Lift",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 158,
+    "Name": "Pump/Bailer",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 359,
+    "Name": "Pump/Bladder",
+    "Type": "Water Sampler",
+    "Description": "Pump with an internal bladder using changing air pressure from an air compressor or compressed air tank to draw water.",
+    "LastModified": "4/3/2019 9:32:35 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 159,
+    "Name": "Pump/Centrifugal",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 160,
+    "Name": "Pump/Jet",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 161,
+    "Name": "Pump/Non-Submersible",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 185,
+    "Name": "Pump/Peristaltic",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/11/2015 9:26:33 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 162,
+    "Name": "Pump/Piston",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 163,
+    "Name": "Pump/Rotary",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 164,
+    "Name": "Pump/Submersible",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 165,
+    "Name": "Pump/Turbine",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 106,
+    "Name": "Purse Seine Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 78,
+    "Name": "Push Net",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 184,
+    "Name": "Push Point Sampler",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "7/31/2015 10:49:05 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 192,
+    "Name": "Quartz filter",
+    "Type": "Air Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 182,
+    "Name": "Radiello",
+    "Type": "Air Sampler",
+    "Description": "",
+    "LastModified": "12/8/2014 11:50:54 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 107,
+    "Name": "Rectangular Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 61,
+    "Name": "Remotely Operated Vehicle",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 186,
+    "Name": "Rock Bag",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "10/5/2015 11:37:33 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 145,
+    "Name": "Rock Basket",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 187,
+    "Name": "Rock-filled Cone Sampler",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "10/5/2015 11:38:32 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 79,
+    "Name": "Roller Frame Trawl",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 193,
+    "Name": "Rosette Sampler",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 62,
+    "Name": "Rotenone",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 108,
+    "Name": "Roving Drop Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 40,
+    "Name": "Scoop Fish Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 194,
+    "Name": "Seabird CTD profiler",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 202,
+    "Name": "Secchi Disk",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "1/27/2016 12:01:03 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 195,
+    "Name": "Sediment sipper core",
+    "Type": "Soil Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 196,
+    "Name": "Sediment sub-core",
+    "Type": "Soil Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 146,
+    "Name": "Sediment Trap",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 109,
+    "Name": "Seine Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 174,
+    "Name": "Semipermeable Membrane Device",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "12/8/2011 4:37:26 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 110,
+    "Name": "Set (Passive) Gill Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 180,
+    "Name": "Shelby Tube",
+    "Type": "Soil Sampler",
+    "Description": "",
+    "LastModified": "10/17/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 166,
+    "Name": "Ship Sea Chest",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 41,
+    "Name": "Shipek Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 172,
+    "Name": "Shovel",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "9/10/2011 5:23:35 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 80,
+    "Name": "Shrimp Trawl",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 124,
+    "Name": "Simple Conical Net",
+    "Type": "Net/Vertical Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 81,
+    "Name": "Single-Vessel Operated Tow Net",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 42,
+    "Name": "Smith-McIntire Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 63,
+    "Name": "Sodium Cyanide",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 64,
+    "Name": "Spear/Gun",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 65,
+    "Name": "Spear/Hand",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 66,
+    "Name": "Spear/Hawaiian Sling",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 179,
+    "Name": "Split Spoon",
+    "Type": "Soil Sampler",
+    "Description": "",
+    "LastModified": "10/17/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 111,
+    "Name": "Square-Mouth Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 178,
+    "Name": "Stainless Steel Spoon",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/1/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 112,
+    "Name": "Stationary Drop Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 67,
+    "Name": "Still Camera",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 113,
+    "Name": "Stop Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 181,
+    "Name": "Storm Water Sampler",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "5/5/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 147,
+    "Name": "Stovepipe Sampler",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 52,
+    "Name": "Stream-Side Electroshock",
+    "Type": "Electroshock",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 26,
+    "Name": "Suction Dredge",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 183,
+    "Name": "Summa",
+    "Type": "Air Sampler",
+    "Description": "",
+    "LastModified": "12/8/2014 11:50:54 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 148,
+    "Name": "Surber Sampler",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 171,
+    "Name": "Syringe",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "4/28/2010 9:13:50 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 150,
+    "Name": "T-Sampler",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 114,
+    "Name": "Terminal Bag",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 149,
+    "Name": "Tile Plate",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 82,
+    "Name": "Tow Net",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 27,
+    "Name": "Towed Dredge",
+    "Type": "Benthic Dredge",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 115,
+    "Name": "Trammel Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 116,
+    "Name": "Trap Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 143,
+    "Name": "Trap Substrate (Other)",
+    "Type": "Trap/Substrate",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 117,
+    "Name": "Traveling Screen",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 197,
+    "Name": "Trawl",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 68,
+    "Name": "Trot Line",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 118,
+    "Name": "Tucker Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 209,
+    "Name": "Turbidimeter",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "3/17/2016 3:35:19 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 208,
+    "Name": "Turbidity Column",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "3/17/2016 3:35:19 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 207,
+    "Name": "Turbidity Tube",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "3/17/2016 3:35:19 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 83,
+    "Name": "Two-Vessel Operated Tow Net",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 198,
+    "Name": "USGS collection method tributary samples",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 199,
+    "Name": "USGS field procedure for sampling Hg-CH3",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 167,
+    "Name": "Van Dorn Bottle",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 43,
+    "Name": "Van Veen Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 119,
+    "Name": "Variable Mesh Gill Net",
+    "Type": "Net/Non-Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 16,
+    "Name": "Vibrating Corer",
+    "Type": "Benthic Corer",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 69,
+    "Name": "Video Camera",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 152,
+    "Name": "Vinyl Tube",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 70,
+    "Name": "Visual Sighting",
+    "Type": "Miscellaneous/Other",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 168,
+    "Name": "Water Bottle",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 156,
+    "Name": "Water Sampler (Other)",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 177,
+    "Name": "WBH-96",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "12/8/2011 4:51:39 PM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 170,
+    "Name": "Whirl-pak bag",
+    "Type": "Water Sampler",
+    "Description": "",
+    "LastModified": "4/28/2010 9:13:42 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 125,
+    "Name": "Wisconsin-Style Net",
+    "Type": "Net/Vertical Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 200,
+    "Name": "XAD resin",
+    "Type": "Air Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 201,
+    "Name": "XAD-2 resin",
+    "Type": "Air Sampler",
+    "Description": "",
+    "LastModified": "1/19/2016 11:25:07 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 84,
+    "Name": "Yankee Trawl",
+    "Type": "Net/Horizontal Tow",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  },
+  {
+    "Domain": "Sample Collection Equipment(SampleCollectionEquipmentName)",
+    "ID": 44,
+    "Name": "Young Grab",
+    "Type": "Benthic Grab",
+    "Description": "",
+    "LastModified": "8/12/2006 12:51:17 AM"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 2,
+    "Name": "Address Matching-Block Face",
+    "Description": "The geographic coordinate determination method based on address matching-block face",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 6,
+    "Name": "Address Matching-Digitized",
+    "Description": "The geographic coordinate determination method based on address matching-digitized",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 1,
+    "Name": "Address Matching-House Number",
+    "Description": "The geographic coordinate determination method based on address matching-house number",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 4,
+    "Name": "Address Matching-Nearest Intersection",
+    "Description": "The geographic coordinate determination method based on address matching-nearest intersection",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 7,
+    "Name": "Address Matching-Other",
+    "Description": "The geographic coordinate determination method based on address matching-other",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 5,
+    "Name": "Address Matching-Primary Name",
+    "Description": "The geographic coordinate determination method based on address matching-primary name",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 3,
+    "Name": "Address Matching-Street Centerline",
+    "Description": "The geographic coordinate determination method based on address matching-street centerline",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 8,
+    "Name": "Census Block-1990-Centroid",
+    "Description": "The geographic coordinate determination method based on census block-1990-centroid",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 9,
+    "Name": "Census Block/Group-1990-Centroid",
+    "Description": "The geographic coordinate determination method based on census/group-1990-centroid",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 10,
+    "Name": "Census Block/Tract-1990-Centroid",
+    "Description": "The geographic coordinate determination method based on census/tract-1990-centroid",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 11,
+    "Name": "Census-Other",
+    "Description": "The geographic coordinate determination method based on census-other",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 25,
+    "Name": "Classical Surveying Techniques",
+    "Description": "The geographic coordinate determination method based on classical surveying techniques",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 13,
+    "Name": "GPS Carrier Phase Kinematic Relative Position",
+    "Description": "The geographic coordinate determination method based on GPS carrier phase kinematic relative positioning technique",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 12,
+    "Name": "GPS Carrier Phase Static Relative Position",
+    "Description": "The geographic coordinate determination method based on GPS carrier phase static relative positioning technique",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 14,
+    "Name": "GPS Code (Pseudo Range) Differential",
+    "Description": "The geographic coordinate determination method based on GPS code measurements (pseudo range) differential (DGPS)",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 15,
+    "Name": "GPS Code (Pseudo Range) Precise Position",
+    "Description": "The geographic coordinate determination method based on GPS code measurements (pseudo range) precise positioning service",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 16,
+    "Name": "GPS Code (Pseudo Range) Standard Position (SA Off)",
+    "Description": "The geographic coordinate determination method based on GPS code measurements (pseudo range) standard positioning service (SA Off)",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 17,
+    "Name": "GPS Code (Pseudo Range) Standard Position (SA On)",
+    "Description": "The geographic coordinate determination method based on GPS code measurements (pseudo range) standard positioning service (SA On)",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 104,
+    "Name": "GPS with Wide Area Augmentation System",
+    "Description": "An air navigation aid developed by the Federal Aviation Administration to augment the Global Positioning System (GPS),",
+    "LastModified": "1/10/2018 2:24:30 PM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 29,
+    "Name": "GPS, With Canadian Active Control System",
+    "Description": "GPS Code Measurements (pseudo  range) Standard Positioning Service Corrected using Canadian Active Control System",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 28,
+    "Name": "GPS-Unspecified",
+    "Description": "Global Positioning Method, with unspecified parameters",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 39,
+    "Name": "Interpolation-Digital Map Source",
+    "Description": "The geographic coordinate determination method based on interpolation-Digital Map Source",
+    "LastModified": "8/27/2015 12:00:00 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 30,
+    "Name": "Interpolation-Digital Map Source (Tiger)",
+    "Description": "The geographic coordinate determination method is based on a digital map source (TIGER)",
+    "LastModified": "8/8/2016 12:00:00 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 18,
+    "Name": "Interpolation-Map",
+    "Description": "The geographic coordinate determination method based on interpolation-map",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 32,
+    "Name": "Interpolation-MSS",
+    "Description": "The geographic coordinate determination method is based on the use of a Multi-Spectral Scanner (MSS)",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 21,
+    "Name": "Interpolation-Other",
+    "Description": "The geographic coordinate determination method based on interpolation-other",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 19,
+    "Name": "Interpolation-Photo",
+    "Description": "The geographic coordinate determination method based on interpolation-photo",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 20,
+    "Name": "Interpolation-Satellite",
+    "Description": "The geographic coordinate determination method based on interpolation-satellite",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 31,
+    "Name": "Interpolation-Spot",
+    "Description": "The geographic coordinate determination method uses SPOT (Systeme Probatoire d'Observation de la Terre), a French-owned satellite launched in 1984",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 33,
+    "Name": "Interpolation-TM",
+    "Description": "The geographic coordinate determination method is based on the use of a Thematic Mapper (TM)",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 22,
+    "Name": "Loran C",
+    "Description": "The geographic coordinate determination method based on Loran C",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 34,
+    "Name": "Public Land Survey-Eighth Section",
+    "Description": "The geographic coordinate determination method is based on a public land survey, an eighth of a section",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 36,
+    "Name": "Public Land Survey-Footing",
+    "Description": "The geographic coordinate determination method is based on a public land survey footing",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 23,
+    "Name": "Public Land Survey-Quarter Section",
+    "Description": "The geographic coordinate determination method based on public land survey quarter of a section",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 24,
+    "Name": "Public Land Survey-Section",
+    "Description": "The geographic coordinate determination method based on public land survey section",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 35,
+    "Name": "Public Land Survey-Sixteenth Section",
+    "Description": "The geographic coordinate determination method is based on a public land survey, a sixteenth of a section",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 27,
+    "Name": "Unknown",
+    "Description": "The information is not known",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 26,
+    "Name": "Zip Code-Centroid",
+    "Description": "The geographic coordinate determination method based on zipcode-centroid",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 38,
+    "Name": "Zip+2 Centroid",
+    "Description": "The center of an area defined by the 5-digit ZIP code and its 2-digit geographic segment extension",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  },
+  {
+    "Domain": "Horizontal Collection Method",
+    "ID": 37,
+    "Name": "Zip+4 Centroid",
+    "Description": "The center of an area defined by the 5-digit  ZIP code and its 4-digit geographic segment extension",
+    "LastModified": "8/12/2006 12:29:23 AM"
+  }
+]

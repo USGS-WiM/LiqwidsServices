@@ -1,0 +1,149 @@
+[
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 15,
+    "Name": "Above Operating Range",
+    "Description": "",
+    "LastModified": "4/26/2016 4:43:04 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 13,
+    "Name": "Below Daily Detection Limit",
+    "Description": "data that was found less than defined daily detection limits",
+    "LastModified": "4/26/2016 4:42:54 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 12,
+    "Name": "Below Detection Limit",
+    "Description": "data that was found less than defined detection limits",
+    "LastModified": "4/26/2016 4:42:49 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 14,
+    "Name": "Below Long-term Blank-basd Dt Limit",
+    "Description": "data that was found less than defined long-term blank based detection limits",
+    "LastModified": "4/26/2016 4:42:59 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 20,
+    "Name": "Below Method Detection Limit",
+    "Description": "data that was found less than defined laboratory method detection limits",
+    "LastModified": "4/26/2016 4:43:25 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 16,
+    "Name": "Below Reporting Limit",
+    "Description": "data that was found less than defined laboratory reporting limits",
+    "LastModified": "4/26/2016 4:43:10 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 17,
+    "Name": "Below Sample-specific Detect Limit",
+    "Description": "data that was found less than defined sample specific detection limits",
+    "LastModified": "4/26/2016 4:43:15 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 18,
+    "Name": "Below System Detection Limit",
+    "Description": "data that was found less than defined system detection limits",
+    "LastModified": "4/26/2016 4:43:21 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 11,
+    "Name": "Between Inst Detect and Quant Limit",
+    "Description": "",
+    "LastModified": "4/26/2016 4:42:44 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 1,
+    "Name": "Detected Not Quantified",
+    "Description": "data that was found and not quanitified within defined laboratory reporting limits or method detection limits",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 21,
+    "Name": "High Moisture",
+    "Description": "",
+    "LastModified": "2/3/2016 11:57:48 AM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 4,
+    "Name": "Not Detected",
+    "Description": "data was looked for but was not observed/detected within defined laboratory reporting limits or method detection limits",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 106,
+    "Name": "Not Detected at Detection Limit",
+    "Description": "Not Detected at Detection Limit",
+    "LastModified": "11/6/2018 1:01:33 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 107,
+    "Name": "Not Detected at Reporting Limit",
+    "Description": "Not Detected at Reporting Limit",
+    "LastModified": "11/6/2018 1:01:48 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 86,
+    "Name": "Not Present",
+    "Description": "data that was looked for but not found and without laboratory reporting limits or method detection limits http://www.abcwua.org/Substances_Not_Found.aspx",
+    "LastModified": "11/30/2017 7:36:18 AM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 2,
+    "Name": "Not Reported",
+    "Description": "data was collected but not analyzed. (data has not been quantified)",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 3,
+    "Name": "Present Above Quantification Limit",
+    "Description": "data was found greater than defined laboratory reporting limits or method detection limits. typically for colony count and rare occasions where value is above highest calibration curve point concentration.",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 5,
+    "Name": "Present Below Quantification Limit",
+    "Description": "data was found less than defined laboratory reporting limits or method detection limits",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 10,
+    "Name": "Reported in Raw Data (attached)",
+    "Description": "",
+    "LastModified": "6/26/2015 2:48:40 AM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 6,
+    "Name": "Trace",
+    "Description": "",
+    "LastModified": "8/5/2015 2:54:11 PM"
+  },
+  {
+    "Domain": "Result Detection Condition(ResultDetectionConditionText)",
+    "ID": 19,
+    "Name": "Value Decensored",
+    "Description": "",
+    "LastModified": "12/21/2015 2:45:30 PM"
+  }
+]

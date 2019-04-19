@@ -1,0 +1,373 @@
+[
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 9,
+    "Code": "10 Pctl",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 10,
+    "Code": "15 Pctl",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 49,
+    "Code": "2-Sigma CSU",
+    "Description": "2-Sigma CSU",
+    "LastModified": "1/5/2015 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 11,
+    "Code": "20 Pctl",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 12,
+    "Code": "25 Pctl",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 23,
+    "Code": "30-day Geometric Mean",
+    "Description": "Calculating a geometric mean (over 30 days period) provides a number that is more representative of the median and helps reduce the effect of a few extreme values.",
+    "LastModified": "5/31/2011 10:05:55 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 159,
+    "Code": "30DADMean",
+    "Description": "Thirty day average daily mean",
+    "LastModified": "7/11/2018 8:01:39 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 8,
+    "Code": "5 Pctl",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 139,
+    "Code": "50 Pctl",
+    "Description": "",
+    "LastModified": "3/31/2017 8:58:01 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 13,
+    "Code": "75 Pctl",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 19,
+    "Code": "7DADM",
+    "Description": "Seven Day Average Daily Maximum",
+    "LastModified": "12/15/2009 4:47:41 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 157,
+    "Code": "7DADMean",
+    "Description": "Seven day average daily mean",
+    "LastModified": "7/11/2018 7:57:57 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 158,
+    "Code": "7DADMin",
+    "Description": "Seven day average daily minimum",
+    "LastModified": "7/11/2018 7:58:58 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 14,
+    "Code": "80 Pctl",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 15,
+    "Code": "85 Pctl",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 16,
+    "Code": "90 Pctl",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 17,
+    "Code": "95 Pctl",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 36,
+    "Code": "99 Pctl",
+    "Description": "",
+    "LastModified": "11/19/2014 10:32:19 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 20,
+    "Code": "AMS",
+    "Description": "A method to calculate expanded uncertainty where sample size =7( 7 measures of one sample)",
+    "LastModified": "2/9/2011 6:10:20 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 21,
+    "Code": "AMS+",
+    "Description": "A method to calculate expanded uncertainty where sample size =7 ( based on 7 measures of different samples)",
+    "LastModified": "2/9/2011 6:10:20 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 28,
+    "Code": "BAV",
+    "Description": "Beach Action Values - level of concentration, 75th percentile of the geometric mean of the water samples (the value at which beach advisories should be issued.)",
+    "LastModified": "1/24/2013 2:21:20 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 48,
+    "Code": "BNT",
+    "Description": "Beach notification threshold – A water quality value selected by a state or tribe that is used to “trigger” a beach notification.",
+    "LastModified": "8/13/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 37,
+    "Code": "Coefficient of variation",
+    "Description": "",
+    "LastModified": "12/21/2015 2:35:23 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 31,
+    "Code": "Count",
+    "Description": "count data is a statistical data type, a type of data in which the observations can take only the non-negative integer values, and where these integers arise from counting rather than ranking",
+    "LastModified": "7/1/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 22,
+    "Code": "Daily Geometric Mean",
+    "Description": "Calculating a geometric mean (a daily period) provides a number that is more representative of the median and helps reduce the effect of a few extreme values.",
+    "LastModified": "5/31/2011 10:05:55 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 26,
+    "Code": "Daily Maximum",
+    "Description": "The largest value of a set, each period of a day cycle",
+    "LastModified": "1/18/2012 2:21:20 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 25,
+    "Code": "Daily Minimum",
+    "Description": "The smallest value of a set, each period of a day cycle",
+    "LastModified": "1/18/2012 2:20:38 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 30,
+    "Code": "Delta",
+    "Description": "The measurable difference between two points or results themselves",
+    "LastModified": "8/22/2013 2:21:20 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 18,
+    "Code": "Geometric Mean",
+    "Description": "",
+    "LastModified": "4/15/2008 9:32:55 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 35,
+    "Code": "Hourly Maximum",
+    "Description": "The largest value of a set, each period of a hour cycle",
+    "LastModified": "7/18/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 34,
+    "Code": "Hourly Minimum",
+    "Description": "The smallest value of a set, each period of a hour cycle",
+    "LastModified": "7/18/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 137,
+    "Code": "Instantaneous",
+    "Description": "The rate of change at a particular moment. Same as the value of the derivative at a particular point.",
+    "LastModified": "3/31/2017 7:29:37 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 44,
+    "Code": "Kurtosis",
+    "Description": "a measure of whether the data are peaked or flat relative to a normal distribution. The sharpness of the peak of a frequency-distribution curve.",
+    "LastModified": "1/14/2016 7:58:04 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 1,
+    "Code": "Maximum",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 2,
+    "Code": "Mean",
+    "Description": "mean is the sum of all the numbers in the set divided by the amount of numbers in the set",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 3,
+    "Code": "Median",
+    "Description": "median is the middle point of a number set, in which half the numbers are above the median and half are below.",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 4,
+    "Code": "Minimum",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 5,
+    "Code": "Mode",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 6,
+    "Code": "MPN",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 38,
+    "Code": "Percent diff from true",
+    "Description": "",
+    "LastModified": "12/21/2015 2:35:23 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 39,
+    "Code": "Percent of total",
+    "Description": "",
+    "LastModified": "12/21/2015 2:35:23 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 40,
+    "Code": "Percent recovery",
+    "Description": "",
+    "LastModified": "12/21/2015 2:35:23 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 140,
+    "Code": "Quartile Deviation",
+    "Description": "The quartile deviation is a slightly better measure of absolute dispersion than the range. But it ignores the observation on the tails.",
+    "LastModified": "3/31/2017 9:06:39 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 29,
+    "Code": "RAD Error",
+    "Description": "Inherent Error in Radiological Instruments",
+    "LastModified": "7/10/2013 11:19:06 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 42,
+    "Code": "Ratio",
+    "Description": "",
+    "LastModified": "12/21/2015 2:35:23 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 41,
+    "Code": "Relative percent diff",
+    "Description": "",
+    "LastModified": "12/21/2015 2:35:23 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 24,
+    "Code": "Single Sample Maximum",
+    "Description": "a single sample or measurement taken at a specific time and determining the maximum number of defects discovered in a sample",
+    "LastModified": "5/31/2011 10:05:55 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 43,
+    "Code": "Skewness",
+    "Description": "a measure of the asymmetry of the probability distribution of a real-valued random variable about its mean.",
+    "LastModified": "1/14/2016 7:58:04 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 117,
+    "Code": "Slope",
+    "Description": "the slope or gradient of a line is a number that describes both the direction and the steepness of the line.  The significance of a linear relationship between x and y",
+    "LastModified": "3/30/2017 1:10:56 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 7,
+    "Code": "Standard Deviation",
+    "Description": "This describes the spread of values in the sample",
+    "LastModified": "7/26/2006 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 32,
+    "Code": "Standard Error",
+    "Description": "This is the standard deviation of the sample mean, xBar, and describes its accuracy as an estimate of the population mean, mu.",
+    "LastModified": "7/1/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 27,
+    "Code": "STV",
+    "Description": "statistical threshold value  - level of concentration, the 90th percentile of the geometric mean of the samples for a particular water body",
+    "LastModified": "1/24/2013 2:21:20 PM"
+  },
+  {
+    "Domain": "Result Statistical Base",
+    "ID": 33,
+    "Code": "Sum",
+    "Description": "Use summation notation to express the sum of all numbers.",
+    "LastModified": "7/1/2014 12:00:00 AM"
+  }
+]

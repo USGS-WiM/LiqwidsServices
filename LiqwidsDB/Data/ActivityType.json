@@ -1,0 +1,642 @@
+[
+  {
+    "Domain": "Activity Type",
+    "ID": 1,
+    "Code": "Field Msr/Obs",
+    "Description": "MEASUREMENTS involve something measured in its environmental setting usually using some type of equipment.  OBSERVATIONS are made by people, usually without the use of equipment, and are frequently qualitative.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": true,
+    "LastModified": "4/15/2016 8:33:54 PM",
+    "Abbreviation": "FM"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 3,
+    "Code": "Field Msr/Obs-Habitat Assessment",
+    "Description": "A field activity conducted to evaluate a habitat, according to an organizations pre-defined habitat assessment scheme.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "FMHA"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 51,
+    "Code": "Field Msr/Obs-Incidental",
+    "Description": "A field observation of a non-target species/analytes made during a formal survey and/or a field observation made during a non-formal survey.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "9/24/2014 12:00:00 AM",
+    "Abbreviation": "FMI"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 2,
+    "Code": "Field Msr/Obs-Portable Data Logger",
+    "Description": "Measurements made in the field by an automated data logging device, running \"attended or unattended\" and producing a suite of data values at repeating intervals set by its owner/operator.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": true,
+    "LastModified": "9/6/2018 8:41:51 AM",
+    "Abbreviation": "FMPDL"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 45,
+    "Code": "Quality Control Alternative Measurement Sensitivity",
+    "Description": "A repeated measurement of the same field (also a lab where detection limits do not apply) sample collected to control sensitivity typically for a specific instrument in order calculate the alternative measurement sensitivity (AMS). AMS is the standard deviation of 7 measurements of a sample (with a signal in the quantitative range) times the two-sided critical t-value for 99% confidence (3.708)",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "2/9/2011 6:44:16 PM",
+    "Abbreviation": "QAMS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 46,
+    "Code": "Quality Control Alternative Measurement Sensitivity Plus",
+    "Description": "A repeated measurement of different field samples collected to control sensitivity typically for a specific instrument/sensor in order calculate the alternative measurement sensitivity (AMS+).  AMS+ is defined as the standard deviation of 7 measurements of samples collected very closely in time and space times the two-sided critical t-value for 99% confidence.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "2/9/2011 6:44:16 PM",
+    "Abbreviation": "QAMSP"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 19,
+    "Code": "Quality Control Field Calibration Check",
+    "Description": "A standard independently prepared ( different source, different analyst) from the calibration standards and run after the original calibration to verify the original calibration.  There is usually one calibration  check standard per batch.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QCC"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 15,
+    "Code": "Quality Control Field Replicate Habitat Assessment",
+    "Description": "A habitat measurement or evaluation collected to assess the reproducibility of the sampling technique.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QRHA"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 16,
+    "Code": "Quality Control Field Replicate Msr/Obs",
+    "Description": "A field measurement or observation taken to assess the reproducity of the sampling technique or analytical method.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QRM"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 17,
+    "Code": "Quality Control Field Replicate Portable Data Logger",
+    "Description": "A measurement taken to verify the quality of data taken by a data logger.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QRPDL"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 53,
+    "Code": "Quality Control Field Replicate Sample-Composite",
+    "Description": "A composite of either several discrete sampling events or a sample collected by a continuous process taken to assess the reproducity of the sampling technique or analytical method.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": true,
+    "LastModified": "8/29/2016 11:00:17 AM",
+    "Abbreviation": "QRSC"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 18,
+    "Code": "Quality Control Field Sample Equipment Rinsate Blank",
+    "Description": "A sample of analyte-free media that has been used to rinse the sampling equipment. It is collected after completion of decontamination and prior to sampling. This blank is useful in documenting adequate decontamination of sampling equipment.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "5/3/2013 10:57:46 AM",
+    "Abbreviation": "QERB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 116,
+    "Code": "Quality Control Lab Sample Equipment Rinsate Blank",
+    "Description": "A sample of analyte-free media that has been used to rinse the sampling equipment in the laboratory. It is collected after completion of decontamination and prior to sampling. This blank is useful in documenting adequate decontamination of sampling equipment prior to the equipment being used in the field.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/12/2017 1:58:07 PM",
+    "Abbreviation": "QLERB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 33,
+    "Code": "Quality Control Sample-Blind Duplicate",
+    "Description": "The duplicate samples are identical samples (collected from same source and same time) however blind duplicates are submitted to the laboratory by an identification scheme so that the laboratory does not know the samples are identical.   The purpose of blind duplicates is to test for laboratory bias.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QBD"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 28,
+    "Code": "Quality Control Sample-Equipment Blank",
+    "Description": "A sample of analyte free water analyzed with field samples to assess the presence or absence of equipment or instrument contamination.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QEB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 23,
+    "Code": "Quality Control Sample-Field Ambient Conditions Blank",
+    "Description": "The analyte free media is tested to assure the preciseness of ambient conditions. It helps in controlling the effects of environment on the sample.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QFACB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 21,
+    "Code": "Quality Control Sample-Field Blank",
+    "Description": "A sample of analyte free water poured into a sample container in the field, preserved and shipped to the laboratory with field samples.  The purpose of a field blank is to assess contamination from field conditions during sampling.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QFB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 22,
+    "Code": "Quality Control Sample-Field Replicate",
+    "Description": "Multiple samples taken within each combination of time, location, and any other controlled variables. The purpose of collecting replicate samples is to obtain precision. For a large size field it is important to break field into homogeneous sub-areas and collect samples proportions to the size of each sub-area.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QFR"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 20,
+    "Code": "Quality Control Sample-Field Spike",
+    "Description": "A known mass of target analyte added to a blank sample or subsample in the field. The pupose of a field spike is to show that sample preperation procedures do not contribute to loss of analytes.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QFS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 25,
+    "Code": "Quality Control Sample-Field Surrogate Spike",
+    "Description": "A pure substance with properties that mimic the analyte of interest is called surrogate. Target Surrogate is added in sample to determine the recovery efficiency for quality control purposes.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QFSS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 34,
+    "Code": "Quality Control Sample-Inter-lab Split",
+    "Description": "Split samples are obtained by dividing one sample into two or more identical sub-samples, and analyzed at different laboratories.  Interlaboraory splits are used to compare the accuracy and precision of the laboratories doing the analyses.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "8/11/2006 11:50:00 PM",
+    "Abbreviation": "QIS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 41,
+    "Code": "Quality Control Sample-Lab Blank",
+    "Description": "Lab Blanks are  analyte-free matrices prepared in the lab and analyzed with samples to identify potential lab sources of contamination.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "1/12/2009 10:00:59 AM",
+    "Abbreviation": "QLB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 55,
+    "Code": "Quality Control Sample-Lab Continuing Calibration Verification",
+    "Description": "A check standards run at set points during the analysis",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "3/30/2017 2:19:44 PM",
+    "Abbreviation": "QLCCV"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 47,
+    "Code": "Quality Control Sample-Lab Control Sample/Blank Spike",
+    "Description": "In the lab deionized water is spiked with all the analytes in concentrations close to those in the field samples, prepared as a sample, and run/re-run on a set frequency.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "1/23/2013 10:01:33 PM",
+    "Abbreviation": "QLBS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 50,
+    "Code": "Quality Control Sample-Lab Control Sample/Blank Spike Duplicate",
+    "Description": "In the lab deionized water is spiked with all the analytes in concentrations close to those in the field samples, prepared as a sample, and run/re-run on a set frequency.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "2/11/2013 10:01:33 PM",
+    "Abbreviation": "QLBSD"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 136,
+    "Code": "Quality Control Sample-Lab Control Standard",
+    "Description": "Lab Control Standard - A standard, certified by an outside agency, used to measure the bias in a procedure. For certain constituents and matrices use NIST Standard Reference Materials when available.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "11/8/2017 11:49:13 AM",
+    "Abbreviation": "QCSLCS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 140,
+    "Code": "Quality Control Sample-Lab Control Standard Duplicate",
+    "Description": "Lab Control Standard - A standard, certified by an outside agency, used to measure the bias in a procedure. For certain constituents and matrices use NIST Standard Reference Materials when available. The purpose of duplicates is to test for laboratory bias. Duplicate samples are used to assess variance of the total method including sampling and analysis.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "11/8/2017 11:49:13 AM",
+    "Abbreviation": "QCLCSD"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 24,
+    "Code": "Quality Control Sample-Lab Duplicate",
+    "Description": "One of two samples taken from the same population and carried through all steps of the sampling and analytical procedures in an identical manner. Duplicate samples are used to assess variance of the total method including sampling and analysis.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QLD"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 57,
+    "Code": "Quality Control Sample-Lab Initial Calib Certified Reference Material",
+    "Description": "A certified standard reference material purchased from an outside vendor.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "3/30/2017 2:19:44 PM",
+    "Abbreviation": "QLCCRM"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 56,
+    "Code": "Quality Control Sample-Lab Initial Calibration Verification",
+    "Description": "A initial check standards run after the calibration curve",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "3/30/2017 2:19:44 PM",
+    "Abbreviation": "QLICM"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 44,
+    "Code": "Quality Control Sample-Lab Matrix Spike",
+    "Description": "An aliquot of an environmental sample to which known quantities of analytes are added in the laboratory.  The matrix spike is analyzed in an identical manner as the sample.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "1/12/2009 10:00:59 AM",
+    "Abbreviation": "QLMS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 49,
+    "Code": "Quality Control Sample-Lab Matrix Spike Duplicate",
+    "Description": "An aliquot of an environmental sample to which known quantities of analytes are added in the laboratory.  The matrix spike is analyzed in an identical manner as the sample.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "2/11/2013 10:01:33 PM",
+    "Abbreviation": "QLMSD"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 43,
+    "Code": "Quality Control Sample-Lab Re-Analysis",
+    "Description": "A sample that is analyzed more than once.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "1/12/2009 10:00:59 AM",
+    "Abbreviation": "QLR"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 40,
+    "Code": "Quality Control Sample-Lab Spike",
+    "Description": "A known mass of target analyte added to a blank sample or subsample in the laboratory. The pupose of a laboratory spike is to show that sample preperation procedures do not contribute to loss of analytes.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "1/12/2009 9:44:16 AM",
+    "Abbreviation": "QLS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 58,
+    "Code": "Quality Control Sample-Lab Spike Duplicate",
+    "Description": "A known mass of target analyte added to a blank sample or subsample in the laboratory. The purpose of a laboratory spike is to show that sample preparation procedures do not contribute to loss of analytes.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "4/4/2017 7:50:55 AM",
+    "Abbreviation": "QLSD"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 48,
+    "Code": "Quality Control Sample-Lab Spike of a Lab Blank",
+    "Description": "The lab blank (method blank) is prepared in the lab to represent the matrix as closely as possible, then spiked with known concentrations of the analytes.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": false,
+    "LastModified": "1/23/2013 10:01:33 PM",
+    "Abbreviation": "QLSLB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 42,
+    "Code": "Quality Control Sample-Lab Split",
+    "Description": "A sample split in the laboratory from half of a mother or parent sample.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "1/12/2009 10:00:59 AM",
+    "Abbreviation": "QLST"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 138,
+    "Code": "Quality Control Sample-Lab Surrogate Control Standard",
+    "Description": "Surrogate Standard - A pure compound added to a sample in the lab before processing so that the efficiency of the method can be determined.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "11/8/2017 11:49:12 AM",
+    "Abbreviation": "QCLSCS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 137,
+    "Code": "Quality Control Sample-Lab Surrogate Control Standard Duplicate",
+    "Description": "Surrogate Standard - A pure compound added to a sample in the lab before processing so that the efficiency of the method can be determined. The purpose of duplicates is to test for laboratory bias. Duplicate samples are used to assess variance of the total method including sampling and analysis.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "11/8/2017 11:49:12 AM",
+    "Abbreviation": "QCSCSD"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 139,
+    "Code": "Quality Control Sample-Lab Surrogate Method Blank",
+    "Description": "Surrogate - Organic compounds which are similar to analytes of interest in chemical composition, extraction, and chromatography, but are not found in the environmental samples. These compounds are spiked into blanks, calibration standards, check standards, samples and spiked samples. Percent recovery are calculated for each surrogate.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "11/8/2017 11:49:12 AM",
+    "Abbreviation": "QCLSMB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 32,
+    "Code": "Quality Control Sample-Measurement Precision Sample",
+    "Description": "A sample (i.e., test sample or control sample/standard) used either singly or in replicate, as appropriate, to monitor the precision of method.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QMPS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 35,
+    "Code": "Quality Control Sample-Other",
+    "Description": "This category contains quality control measures of any other process to which a sample is subjected, and not included in this list.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QO"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 30,
+    "Code": "Quality Control Sample-Post-preservative Blank",
+    "Description": "The analyte-free media which has undergone the same preserving process as the samples. This Blank is tested to check the quality of the preservation process.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QPTB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 29,
+    "Code": "Quality Control Sample-Pre-preservative Blank",
+    "Description": "The analyte-free media tested before undergoing the same preserving process as the samples. This Blank is tested to check the quality of preservation process.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QPRB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 27,
+    "Code": "Quality Control Sample-Reagent Blank",
+    "Description": "Reagent Blank is analyte free water analyzed with samples, one per sample test. The reagent blank is analyzed to control the quality.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QRB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 31,
+    "Code": "Quality Control Sample-Reference Sample",
+    "Description": "A sample (i.e., test sample or control sample/standard) with known analyte concentration used either singly or in replicate, as appropriate, to monitor method performance characteristics.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "QRS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 26,
+    "Code": "Quality Control Sample-Trip Blank",
+    "Description": "Trip blanks are test samples of analyte-free media taken from the laboratory to the sampling site and returned to the laboratory unopened. They are used to measure cross-contamination from the container and preservative during transport, field handling, and storage. Usually, at least one trip blank should be prepared for each sample type per trip.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "8/11/2006 11:50:00 PM",
+    "Abbreviation": "QTB"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 39,
+    "Code": "Quality Control-Negative Control",
+    "Description": "The process to control the quality of measurement with absence of analyte or habitat is negative control.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/18/2008 11:56:51 AM",
+    "Abbreviation": "QNC"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 38,
+    "Code": "Sample-Composite With Parents",
+    "Description": "A sample split in the laboratory from half of a mother or parent sample.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "8/11/2006 11:50:00 PM",
+    "Abbreviation": "SCWP"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 10,
+    "Code": "Sample-Composite Without Parents",
+    "Description": "Describes a sample which is a composite of either several discrete sampling events not described elsewhere, or is a sample collected by a continuous process over some time period. No database record exists as its parent.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SCWOP"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 37,
+    "Code": "Sample-Depletion Replicate",
+    "Description": "Lab Blanks are  analyte-free matrices prepared in the lab and analyzed with samples to identify potential lab sources of contamination.",
+    "RequireAnalyticalMethod": false,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SDR"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 14,
+    "Code": "Sample-Field Split",
+    "Description": "A sample created in the field from half of a mother or parent sample.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SFST"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 13,
+    "Code": "Sample-Field Subsample",
+    "Description": "A sample created in the field from a portion of a mother or parent sample",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": false,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SFSS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 9,
+    "Code": "Sample-Integrated Cross-Sectional Profile",
+    "Description": "A discrete/integrated sample, usually derived from a continuous record, representing cross-section of the stream.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SICP"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 6,
+    "Code": "Sample-Integrated Flow Proportioned",
+    "Description": "A sample integrated over an interval or space within which changes in flow are used to alter the proportion of the sampled medium contributing to the integrated sample.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SIFP"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 54,
+    "Code": "Sample-Integrated Horizontal and Vertical Composite Profile",
+    "Description": "A discrete/integrated sample, usually derived from a continuous record, representing some portion or segment of a horizontal and vertical track within the study area.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "2/15/2017 1:31:29 PM",
+    "Abbreviation": "SIHVCP"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 7,
+    "Code": "Sample-Integrated Horizontal Profile",
+    "Description": "A sample integrated over an interval or space within which changes in flow are used to alter the proportion of the sampled medium contributing to the integrated sample.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SIHP"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 5,
+    "Code": "Sample-Integrated Time Series",
+    "Description": "A discrete/integrated sample, usually derived from a continuous record, representing some portion or segment of elapsed time within the overall activity duration or sample period.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SITS"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 8,
+    "Code": "Sample-Integrated Vertical Profile",
+    "Description": "A discrete/integrated sample, usually derived from a continuous record, representing some portion or segment of a vertical track within the study area.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SIVP"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 12,
+    "Code": "Sample-Negative Control",
+    "Description": "A controlled sample with absence of analyte.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SNC"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 36,
+    "Code": "Sample-Other",
+    "Description": "This category contains a sample collected following a process which is not included in this list.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "8/11/2006 11:50:00 PM",
+    "Abbreviation": "SO"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 11,
+    "Code": "Sample-Positive Control",
+    "Description": "A controlled sample with presence of analyte.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SPC"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 4,
+    "Code": "Sample-Routine",
+    "Description": "A sample gathered using straightforward grab  procedures for purposes of a general evaluation of the environment at the site.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "7/26/2006 10:57:46 AM",
+    "Abbreviation": "SR"
+  },
+  {
+    "Domain": "Activity Type",
+    "ID": 52,
+    "Code": "Sample-Routine Resample",
+    "Description": "A RE-sample (second or more) gathered using straightforward grab  procedures for purposes of a general evaluation of the environment at the site.",
+    "RequireAnalyticalMethod": true,
+    "RequireMonitoringLocation": true,
+    "LastModified": "5/10/2016 2:13:01 PM",
+    "Abbreviation": "SRR"
+  }
+]

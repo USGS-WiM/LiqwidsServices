@@ -39,7 +39,7 @@ namespace LiqwidsDB.Resources
         [RequiredIf("Value", requiredIfenum.isNull)]//required if value is null
         public int DetectionConditionID { get; set; } 
         public double Value { get; set; }
-        [RequiredIf("Value", , requiredIfenum.isNotNull)]// required if value is present
+        [RequiredIf("Value", requiredIfenum.isNotNull)]// required if value is present
         public int UnitID { get; set; }
         [Required]
         public int MeasureQualifierID { get; set; }

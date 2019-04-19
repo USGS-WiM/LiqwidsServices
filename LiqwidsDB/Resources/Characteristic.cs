@@ -31,7 +31,8 @@ namespace LiqwidsDB.Resources
         public int ID { get; set; }
         [Required]
         public string Name { get; set; }
-        public string Description { get; set; }
+        public string CAS_Number { get; set; }
+        public bool RequiresSampleFraction { get; set; }
 
         public ICollection<MethodSpeciation> MethodSpeciations { get; set; }
     }

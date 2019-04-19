@@ -1,0 +1,37 @@
+[
+  {
+    "Domain": "Result Value Type",
+    "ID": 1,
+    "Name": "Actual",
+    "Description": "existing now; present; current:",
+    "LastModified": "10/15/2012 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Value Type",
+    "ID": 5,
+    "Name": "Blank Corrected Calc",
+    "Description": "The data were blank corrected using the recommended procedure detailed in the analytical method.",
+    "LastModified": "9/10/2009 8:25:25 AM"
+  },
+  {
+    "Domain": "Result Value Type",
+    "ID": 3,
+    "Name": "Calculated",
+    "Description": "To ascertain by computation or determined by mathematical calculation, evaluating, and reasoning.",
+    "LastModified": "10/15/2012 10:57:47 AM"
+  },
+  {
+    "Domain": "Result Value Type",
+    "ID": 4,
+    "Name": "Control Adjusted",
+    "Description": "requirements are determined from the control test data",
+    "LastModified": "7/18/2008 11:56:55 AM"
+  },
+  {
+    "Domain": "Result Value Type",
+    "ID": 2,
+    "Name": "Estimated",
+    "Description": "Approximation, educated guess, or projection of a quantity based on experience and/or information available at the time, and the cheapest (and least accurate) type of modeling.",
+    "LastModified": "10/15/2012 10:57:47 AM"
+  }
+]

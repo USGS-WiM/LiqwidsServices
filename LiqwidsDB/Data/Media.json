@@ -1,0 +1,58 @@
+[
+  {
+    "Domain": "Activity Media",
+    "ID": 1,
+    "Name": "Air",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:46 AM"
+  },
+  {
+    "Domain": "Activity Media",
+    "ID": 3,
+    "Name": "Biological",
+    "Description": "",
+    "LastModified": "7/18/2008 11:56:47 AM"
+  },
+  {
+    "Domain": "Activity Media",
+    "ID": 8,
+    "Name": "Habitat",
+    "Description": "",
+    "LastModified": "8/1/2008 7:50:34 AM"
+  },
+  {
+    "Domain": "Activity Media",
+    "ID": 6,
+    "Name": "Other",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:46 AM"
+  },
+  {
+    "Domain": "Activity Media",
+    "ID": 5,
+    "Name": "Sediment",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:46 AM"
+  },
+  {
+    "Domain": "Activity Media",
+    "ID": 4,
+    "Name": "Soil",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:46 AM"
+  },
+  {
+    "Domain": "Activity Media",
+    "ID": 7,
+    "Name": "Tissue",
+    "Description": "",
+    "LastModified": "7/18/2008 11:56:49 AM"
+  },
+  {
+    "Domain": "Activity Media",
+    "ID": 2,
+    "Name": "Water",
+    "Description": "",
+    "LastModified": "7/26/2006 10:57:46 AM"
+  }
+]

@@ -1,0 +1,1892 @@
+[
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 329,
+    "Code": "",
+    "Description": "LCS or LCSD is outside acceptance limits.",
+    "LastModified": "8/22/2017 12:16:58 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 307,
+    "Code": "$",
+    "Description": "Incorrect sample container",
+    "LastModified": "4/12/2017 3:14:21 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 308,
+    "Code": "*",
+    "Description": "Sample was warm when received",
+    "LastModified": "4/12/2017 3:14:21 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 328,
+    "Code": 4,
+    "Description": "MS, MSD: The analyte present in the original sample is greater than 4 times the matrix spike concentration; therefore, control limits are not applicable",
+    "LastModified": "8/22/2017 12:14:44 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 55,
+    "Code": "A",
+    "Description": "Compound not analyzed",
+    "LastModified": "8/22/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 206,
+    "Code": "AL",
+    "Description": "Aldol condensation present. Analyte may not be present.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 122,
+    "Code": "ALK",
+    "Description": "Estimate, Alkylated PAH Sum",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 123,
+    "Code": "ALT",
+    "Description": "Alternate Method",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 5,
+    "Code": "B",
+    "Description": "Detection in blank",
+    "LastModified": "4/24/2008 8:28:30 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 124,
+    "Code": "BAC",
+    "Description": "Correction Factor, background",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 408,
+    "Code": "BDJ",
+    "Description": "B D J; Detection in blank. Dilution required.  Estimated value",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 12,
+    "Code": "BH",
+    "Description": "Detection in blank. Holding time exceeded.",
+    "LastModified": "5/14/2009 2:21:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 409,
+    "Code": "BJ",
+    "Description": "B J; Detected in blank.  Estimated value",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 80,
+    "Code": "BJHQC",
+    "Description": "Estimated value, compound also detected in LRB, holding time exceeded, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 81,
+    "Code": "BJHT",
+    "Description": "Estimated value, compound also detected in LRB, holding time exceeded",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 82,
+    "Code": "BJQC",
+    "Description": "Estimated value, compound also detected in LRB, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 607,
+    "Code": "BL",
+    "Description": "Detection in blank. Lowest available reporting limit for the analytical method used.",
+    "LastModified": "12/17/2018 8:57:31 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 508,
+    "Code": "BMDL",
+    "Description": "Concentration is less than method detection limit (MDL)",
+    "LastModified": "5/17/2018 7:33:22 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 200,
+    "Code": "BQB",
+    "Description": "Below Quantitation Limit. Detection in blank.",
+    "LastModified": "7/6/2016 4:04:46 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 201,
+    "Code": "BQBJ",
+    "Description": "Below Quantitation Limit. Detection in blank. Estimated.",
+    "LastModified": "7/6/2016 4:04:47 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 202,
+    "Code": "BQJ",
+    "Description": "Below Quantitation Limit. Estimated.",
+    "LastModified": "7/6/2016 4:04:47 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 125,
+    "Code": "BQL",
+    "Description": "Below Quantitation Limit",
+    "LastModified": "7/6/2016 4:09:14 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 126,
+    "Code": "BRL",
+    "Description": "Below Reporting Limit",
+    "LastModified": "7/6/2016 4:09:17 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 17,
+    "Code": "BU",
+    "Description": "Detection in blank.  Not Detected: The analyte was analyzed for, but was not detected at a level greater than or equal to the level of the adjusted Contract Required Quantitation Limit (CRQL) for sample and method.",
+    "LastModified": "5/14/2009 2:23:57 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 223,
+    "Code": "BVER",
+    "Description": "Continuing calibration blank criteria was not met",
+    "LastModified": "9/28/2016 1:08:07 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 58,
+    "Code": "C",
+    "Description": "Presence of compound may be due to contamination of sample during laboratory processing",
+    "LastModified": "8/22/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 127,
+    "Code": "C25",
+    "Description": "Dual Column result difference >25%",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 128,
+    "Code": "CAJ",
+    "Description": "Correction Factor, lab",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 129,
+    "Code": "CAN",
+    "Description": "No Result Reported, analysis canceled",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 550,
+    "Code": "CB+",
+    "Description": "CCB out high.",
+    "LastModified": "8/29/2018 4:17:46 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 549,
+    "Code": "CB+,J",
+    "Description": "CCB out high. Estimated value between MDL and MQL.",
+    "LastModified": "8/29/2018 4:17:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 130,
+    "Code": "CBC",
+    "Description": "No Result Reported, cannot be calculated",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 410,
+    "Code": "CBD",
+    "Description": "C B D; Co-eluting congener.  Detection in blank.  Dilution required",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 411,
+    "Code": "CBDJ",
+    "Description": "C B D J; Co-eluting congener.  Detection in blank.  Dilution required.  Estimated",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 412,
+    "Code": "CBJ",
+    "Description": "C B J; Co-eluting congener.  Detection in blank.  Estimated",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 131,
+    "Code": "CBL",
+    "Description": "Correction Factor, blank",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 197,
+    "Code": "CBQBJ",
+    "Description": "Co-eluting congener. Below Quantitation Limit. Detection in blank. Estimated.",
+    "LastModified": "7/6/2016 4:04:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 189,
+    "Code": "CC",
+    "Description": "co-eluting congener",
+    "LastModified": "6/15/2016 1:28:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 193,
+    "Code": "CCB",
+    "Description": "Co-eluting congener. Detection in blank.",
+    "LastModified": "7/6/2016 4:04:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 194,
+    "Code": "CCBJ",
+    "Description": "Co-eluting congener. Detection in blank. Estimated.",
+    "LastModified": "7/6/2016 4:04:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 196,
+    "Code": "CCBQ",
+    "Description": "Co-eluting congener. Below Quantitation Limit.",
+    "LastModified": "7/6/2016 4:04:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 198,
+    "Code": "CCBQJ",
+    "Description": "Co-eluting congener. Below Quantitation Limit. Estimated.",
+    "LastModified": "7/6/2016 4:04:46 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 195,
+    "Code": "CCJ",
+    "Description": "Co-eluting congener. Estimated.",
+    "LastModified": "7/6/2016 4:04:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 199,
+    "Code": "CCU",
+    "Description": "Co-eluting congener. Not Detected.",
+    "LastModified": "7/6/2016 4:04:46 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 413,
+    "Code": "CD",
+    "Description": "C D; Co-eluting congener.  Detection in blank.  Dilution required",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 132,
+    "Code": "CDI",
+    "Description": "Correction Factor, dilution",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 414,
+    "Code": "CDJ",
+    "Description": "C D J; Co-eluting congener.  Dilution required.  Estimated",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 417,
+    "Code": "CEBDJ",
+    "Description": "C EMPC B D J; Co-eluting congener.  Estimated maximum possible concentration.  Detection in blank.  Dilution required.  Estimated.",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 418,
+    "Code": "CECBJ",
+    "Description": "C EMPC B J; Co-eluting congener.  Estimated maximum possible concentration.  Detection in blank. Estimated.",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 420,
+    "Code": "CECDJ",
+    "Description": "C EMPC D J; Co-eluting congener.  Estimated maximum possible concentration.  Dilution required.  Estimated.",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 416,
+    "Code": "CEMCB",
+    "Description": "C EMPC B; Co-eluting congener.  Estimated maximum possible concentration.  Detection in blank",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 415,
+    "Code": "CEMPC",
+    "Description": "C EMPC; Co-eluting congener.  Estimated maximum possible concentration",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 419,
+    "Code": "CEPCD",
+    "Description": "C EMPC D; Co-eluting congener.  Estimated maximum possible concentration.  Dilution required.",
+    "LastModified": "6/21/2018 12:44:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 421,
+    "Code": "CEPCJ",
+    "Description": "C EMPC J; Co-eluting congener.  Estimated maximum possible concentration.  Estimated.",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 287,
+    "Code": "CJQC",
+    "Description": "Estimated value, possible contamination of sample during laboratory processing, QC problems",
+    "LastModified": "11/14/2016 2:52:55 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 133,
+    "Code": "CLC",
+    "Description": "Correction Factor, other",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 207,
+    "Code": "CNT",
+    "Description": "Non-acceptable colony counts.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 134,
+    "Code": "CON",
+    "Description": "Value Confirmed",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 422,
+    "Code": "CUD",
+    "Description": "C U D; Co-eluting congener.  Not detected.  Dilution required",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 11,
+    "Code": "D",
+    "Description": "Contract Required Quantitation Limit (CRQL) not met due to sample matrix interference, dilution required.",
+    "LastModified": "5/14/2009 2:21:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 16,
+    "Code": "DB",
+    "Description": "Contract Required Quantitation Limit (CRQL) not met due to sample matrix interference, dilution required.  Detection in blank.",
+    "LastModified": "5/14/2009 2:23:57 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 205,
+    "Code": "DBH",
+    "Description": "Contract Required Quantitation Limit (CRQL) not met due to sample matrix interference, dilution required. Detection in blank. Holding time exceeded.",
+    "LastModified": "7/20/2016 8:25:10 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 330,
+    "Code": "DE",
+    "Description": "Serial dilution acceptance criteria not met.",
+    "LastModified": "8/22/2017 12:37:58 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 135,
+    "Code": "DEC",
+    "Description": "Value Decensored",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 21,
+    "Code": "DH",
+    "Description": "Contract Required Quantitation Limit (CRQL) not met due to sample matrix interference, dilution required. Holding time exceeded",
+    "LastModified": "5/13/2010 2:21:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 109,
+    "Code": "DHJ",
+    "Description": "Contract Required Quantitation Limit (CRQL) not met due to sample matrix interference, dilution required. Holding time exceeded. Estimated: The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample",
+    "LastModified": "12/12/2014 2:13:15 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 14,
+    "Code": "DJ",
+    "Description": "Contract Required Quantitation Limit (CRQL) not met due to sample matrix interference, dilution required. Estimated:The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample.",
+    "LastModified": "5/14/2009 2:21:46 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 73,
+    "Code": "DL",
+    "Description": "Not Detected: The analyte was not detected at a level >= to the Method Detection Limit for the analysis.",
+    "LastModified": "11/25/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 22,
+    "Code": "DR",
+    "Description": "Contract Required Quantitation Limit (CRQL) not met due to sample matrix interference, dilution required. Rejected: The sample results are unusable due to the quality of the data generated because certain criteria were not met. The analyte may or may not be present in the sample.",
+    "LastModified": "5/13/2010 2:21:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 15,
+    "Code": "DU",
+    "Description": "Contract Required Quantitation Limit (CRQL) ... Not Detected: The analyte was analyzed for, but was not detected at a level greater than or equal to the level of the adjusted Contract Required Quantitation Limit (CRQL) for sample and method.",
+    "LastModified": "5/14/2009 2:26:12 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 54,
+    "Code": "E",
+    "Description": "Concentration of analyte being analyzed exceeded calibration range of instrument.",
+    "LastModified": "2/13/2012 6:03:18 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 425,
+    "Code": "ECBDJ",
+    "Description": "EMPC B D J; Estimated maximum possible concentration.  Detected in blank.  Dilution required.  Estimated value",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 136,
+    "Code": "ECI",
+    "Description": "Estimated Value, Coelution",
+    "LastModified": "3/16/2016 1:04:24 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 19,
+    "Code": "EE",
+    "Description": "Identifies compounds whose concentration exceed the calibration range addition of the instrument for that specific analysis.",
+    "LastModified": "8/28/2009 5:04:35 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 59,
+    "Code": "EFAI",
+    "Description": "Equipment failure",
+    "LastModified": "8/22/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 137,
+    "Code": "EMPC",
+    "Description": "Estimated Maximum Possible Concentration",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 423,
+    "Code": "EMPCB",
+    "Description": "EMPC B; Estimated maximum possible concentration.  Detected in blank",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 431,
+    "Code": "EMPCJ",
+    "Description": "EMPC J; Estimated maximum possible concentration.  Estimated value",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 424,
+    "Code": "EPCBD",
+    "Description": "EMPC B D; Estimated maximum possible concentration.  Detected in blank.  Dilution required",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 426,
+    "Code": "EPCBJ",
+    "Description": "EMPC B J; Estimated maximum possible concentration.  Detected in blank.  Estimated value",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 429,
+    "Code": "EPCD",
+    "Description": "EMPC D; Estimated maximum possible concentration.  Detected in blank.  Dilution required.",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 430,
+    "Code": "EPCDJ",
+    "Description": "EMPC D J; Estimated maximum possible concentration. Dilution required.  Estimated value",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 138,
+    "Code": "ESD",
+    "Description": "Estimated Value, serial dilution difference",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 139,
+    "Code": "EST",
+    "Description": "Estimated Value, outside limit of precision",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 140,
+    "Code": "EVA",
+    "Description": "Estimated Value, multiple Aroclors",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 141,
+    "Code": "EVAD",
+    "Description": "Estimated Value, degradation",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 142,
+    "Code": "EVID",
+    "Description": "Estimated Value, tentatively identified compound",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 60,
+    "Code": "F",
+    "Description": "Estimated value: compound failed initial calibration check (CCC) or QC criteria",
+    "LastModified": "8/22/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 427,
+    "Code": "F1F2",
+    "Description": "MS and/or MSD Recovery is outside acceptance limits and MS/MSD RPD exceeds control limits.",
+    "LastModified": "1/10/2018 11:11:29 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 428,
+    "Code": "F1F2B",
+    "Description": "MS and/or MSD Recovery is outside acceptance limits, MS/MSD RPD exceeds control limits, and compound was found in the blank and sample.",
+    "LastModified": "1/10/2018 11:14:09 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 467,
+    "Code": "FBK",
+    "Description": "Analyte found in blank. Sample contamination indicated.",
+    "LastModified": "1/23/2018 2:26:21 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 143,
+    "Code": "FDB",
+    "Description": "Dry Blank, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 144,
+    "Code": "FDC",
+    "Description": "Drift Check, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 145,
+    "Code": "FDL",
+    "Description": "Lab Duplicate, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 53,
+    "Code": "FEQ",
+    "Description": "Field Equipment Questionable",
+    "LastModified": "1/11/2012 5:15:03 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 209,
+    "Code": "FFB",
+    "Description": "Failed. Field blank not acceptable.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 146,
+    "Code": "FFD",
+    "Description": "Field Duplicate, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 210,
+    "Code": "FFS",
+    "Description": "Failed. Field spike not acceptable.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 211,
+    "Code": "FFT",
+    "Description": "Failed. Trip blank not acceptable.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 147,
+    "Code": "FIS",
+    "Description": "Internal Standard, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 148,
+    "Code": "FLA",
+    "Description": "Field Lab Anomaly",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 208,
+    "Code": "FLD",
+    "Description": "Failed. Lab duplicate not acceptable.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 212,
+    "Code": "FLS",
+    "Description": "Failed. Lab spike recovery not acceptable.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 213,
+    "Code": "FMS",
+    "Description": "Failed. Matrix spike recovery not acceptable.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 149,
+    "Code": "FPC",
+    "Description": "Performance Check, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 150,
+    "Code": "FPR",
+    "Description": "Ongoing Precision and Recovery, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 151,
+    "Code": "FQC",
+    "Description": "Quality Control, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 567,
+    "Code": "FQC,U",
+    "Description": "FQC,U -Quality Control, failed, Not Detected",
+    "LastModified": "10/5/2018 8:34:26 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 152,
+    "Code": "FRS",
+    "Description": "Lab Reference, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 153,
+    "Code": "FSD",
+    "Description": "Lab Spike Duplicate, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 215,
+    "Code": "FSL",
+    "Description": "Failed. Spiked lab blank recovery not acceptable.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 214,
+    "Code": "FSP",
+    "Description": "Failed. Surrogate spike recovery not acceptable.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 154,
+    "Code": "FUB",
+    "Description": "Field Tubing Blank, failed",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 191,
+    "Code": "G",
+    "Description": "lock mass interference present",
+    "LastModified": "6/15/2016 1:28:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 507,
+    "Code": "GG",
+    "Description": "Reported Value Is Between MDL and the Practical Quantitation Level (Or Reporting Limit)",
+    "LastModified": "5/17/2018 7:30:15 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 74,
+    "Code": "GT",
+    "Description": "The listed result is greater than the upper quantitation limit for either the analytical method or the meter used for the measurement. Equivalent to the Legacy STORET Remark Code of L: Actual Value is known to be greater than the value given.",
+    "LastModified": "11/25/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 155,
+    "Code": "GXB",
+    "Description": "Estimated Value, greater than 10x blank",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 6,
+    "Code": "H",
+    "Description": "Holding time exceeded:",
+    "LastModified": "4/24/2008 8:28:31 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 13,
+    "Code": "HBJ",
+    "Description": "Holding time exceeded.  Detection in blank.  Estimated: The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample.",
+    "LastModified": "5/14/2009 2:21:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 156,
+    "Code": "HIB",
+    "Description": "Likely Biased High",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 113,
+    "Code": "HICC",
+    "Description": "Initial calibration criteria not met – high",
+    "LastModified": "4/9/2015 9:10:23 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 157,
+    "Code": "HIM",
+    "Description": "High Moisture",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 50,
+    "Code": "HL",
+    "Description": "Holding time exceeded.  Lowest available reporting limit for the analytical method used.",
+    "LastModified": "12/2/2011 4:24:35 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 23,
+    "Code": "HLBL",
+    "Description": "high labeled compound recovery in sample, estimated value, estimated value",
+    "LastModified": "5/19/2010 11:24:46 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 120,
+    "Code": "HMSD",
+    "Description": "Matrix spike duplicate acceptance criteria not met – high",
+    "LastModified": "4/9/2015 9:10:25 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 24,
+    "Code": "HMSR",
+    "Description": "high matrix spike recovery, potential high bias",
+    "LastModified": "5/19/2010 11:24:46 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 627,
+    "Code": "HMSRJ",
+    "Description": "High matrix spike recovery, potential high bias, Estimated: The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample",
+    "LastModified": "1/28/2019 4:13:48 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 25,
+    "Code": "HNRO",
+    "Description": "high native analyte recovery in OPR (or LCS), potential high bias",
+    "LastModified": "5/19/2010 11:24:46 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 158,
+    "Code": "HTH",
+    "Description": "Hard to Homogenize",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 27,
+    "Code": "HVER",
+    "Description": "high calibration verification standard recovery, estimated value",
+    "LastModified": "5/19/2010 11:24:47 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 61,
+    "Code": "I",
+    "Description": "Estimated value; compound failed initial calibration value",
+    "LastModified": "8/22/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 159,
+    "Code": "ICA",
+    "Description": "Incorrect Initial Calibration Associated with Sample",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 647,
+    "Code": "IDL",
+    "Description": "Instrument Detection Limit, less than",
+    "LastModified": "2/21/2019 10:42:45 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 216,
+    "Code": "INT",
+    "Description": "Interference suspected. Analyte may not be present.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 224,
+    "Code": "IQCOL",
+    "Description": "ICV,CCV,ICB,CCB, ISA, ISB, CRI, CRA, DLCK or MRL standard: Instrument related QC is outside acceptance limits",
+    "LastModified": "10/27/2016 7:54:50 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 118,
+    "Code": "ISAC",
+    "Description": "Internal standard acceptance criteria not met",
+    "LastModified": "4/9/2015 9:10:25 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 160,
+    "Code": "ISP",
+    "Description": "Improper Sample Preservation",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 49,
+    "Code": "ITNA",
+    "Description": "Incubation time not attained",
+    "LastModified": "2/2/2011 5:07:31 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 48,
+    "Code": "ITNM",
+    "Description": "Incubation temperature not maintained",
+    "LastModified": "2/2/2011 5:07:30 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 1,
+    "Code": "J",
+    "Description": "Estimated: The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample.",
+    "LastModified": "8/11/2006 11:50:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 7,
+    "Code": "J+",
+    "Description": "Estimated: The analyte was positively identified and the associated numerical value... +++.",
+    "LastModified": "5/7/2009 1:08:20 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 57,
+    "Code": "J-",
+    "Description": "The analyte was positively identified;\n the associated numerical value is the\n approximate concentration of the\n analyte in the sample, and may have \na potential negative bias.",
+    "LastModified": "2/19/2016 8:34:06 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 83,
+    "Code": "J-HT",
+    "Description": "Approximate value analysis exceeded the holding time",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 62,
+    "Code": "J-MI",
+    "Description": "Approximate value due to matrix interference",
+    "LastModified": "8/22/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 63,
+    "Code": "J-QC",
+    "Description": "Approximate value due to quality control problems",
+    "LastModified": "8/22/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 64,
+    "Code": "J-R",
+    "Description": "Approximate value result is below the reporting level but greater than the method detection limit",
+    "LastModified": "8/22/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 75,
+    "Code": "J-RB",
+    "Description": "Approximate value result is below the reporting level but greater than the method detection limit. Detection in blank.",
+    "LastModified": "11/25/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 76,
+    "Code": "J-RH",
+    "Description": "Approximate value result is below the reporting level but greater than the method detection limit. Holding time exceeded.",
+    "LastModified": "11/25/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 10,
+    "Code": "JB",
+    "Description": "Estimated: The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample.  Detection in blank.",
+    "LastModified": "5/14/2009 2:21:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 161,
+    "Code": "JCN",
+    "Description": "Sample Container Damaged, no sample lost",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 162,
+    "Code": "JCW",
+    "Description": "Sample Container Damaged, sample lost",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 331,
+    "Code": "JDE",
+    "Description": "Estimated: The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample. And serial dilution acceptance criteria not met.",
+    "LastModified": "8/22/2017 12:38:47 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 9,
+    "Code": "JH",
+    "Description": "Estimated: The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample. Holding time exceeded.",
+    "LastModified": "5/14/2009 2:21:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 288,
+    "Code": "JHTF",
+    "Description": "Estimated value.  Holding time exceeded in the field",
+    "LastModified": "11/14/2016 2:52:56 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 84,
+    "Code": "JHTQC",
+    "Description": "Estimated value, exceeded holding time and QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 52,
+    "Code": "JL",
+    "Description": "Estimated: The analyte was positively identified and the associated numerical value is the approximate concentration of the analyte in the sample.  Lowest available reporting limit for the analytical method used.",
+    "LastModified": "12/2/2011 4:48:49 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 548,
+    "Code": "JL,U",
+    "Description": "Result estimated low. Result is less than the MDL.",
+    "LastModified": "8/29/2018 4:17:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 85,
+    "Code": "JMQC",
+    "Description": "Estimated value, matrix interference, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 86,
+    "Code": "JRHQC",
+    "Description": "Estimated value, between detection limit and reporting limit, holding time exceeded, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 87,
+    "Code": "JRHT",
+    "Description": "Estimated value, between detection limit and reporting limit and exceeded holding time",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 88,
+    "Code": "JRQC",
+    "Description": "Estimated value, between detection limit and reporting limit and QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 66,
+    "Code": "K",
+    "Description": "Value below the detection Limit.  For BOD: depletion is less than 1.0",
+    "LastModified": "8/22/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 289,
+    "Code": "KB",
+    "Description": "Not detected, compound also detected in LRB",
+    "LastModified": "11/14/2016 2:52:56 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 89,
+    "Code": "KBJHQ",
+    "Description": "Estimated value, not detected, compound also detected in LRB, holding time exceeded, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 90,
+    "Code": "KBJQC",
+    "Description": "Estimated value, not detected, compound also detected in LRB, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 163,
+    "Code": "KCF",
+    "Description": "Known Contamination, field",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 111,
+    "Code": "KJ",
+    "Description": "Estimated value, not detected",
+    "LastModified": "3/20/2015 8:41:18 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 91,
+    "Code": "KJHQC",
+    "Description": "Estimated value, not detected, holding time exceeded and QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 92,
+    "Code": "KJHT",
+    "Description": "Estimated value, not detected and exceeded holding time",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 93,
+    "Code": "KJQC",
+    "Description": "Estimated value, not detected and QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 18,
+    "Code": "KK",
+    "Description": "True bacterial concentration is assumed to be less than the reported value.",
+    "LastModified": "8/28/2009 5:04:14 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 94,
+    "Code": "KN",
+    "Description": "Not detected, presumptive evidence of nontarget compound",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 95,
+    "Code": "KNBJQ",
+    "Description": "Estimated value, not detected, compound also detected in LRB, presumptive evidence of nontarget compound, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 96,
+    "Code": "KNJHT",
+    "Description": "Estimated value, not detected, presumptive evidence of nontarget compound, holding time exceeded",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 97,
+    "Code": "KNJQC",
+    "Description": "Not detected, presumptive evidence of non-target compound, estimated value, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 448,
+    "Code": "KRMDL",
+    "Description": "Reported value was at or below the method detection limit (MDL) and entered at the MDL",
+    "LastModified": "1/22/2018 12:22:58 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 447,
+    "Code": "KRPQL",
+    "Description": "Reported value was at or below the reporting limit (PQL or LQL) and entered at the PQL",
+    "LastModified": "1/22/2018 12:22:58 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 51,
+    "Code": "L",
+    "Description": "Lowest available reporting limit for the analytical method used.",
+    "LastModified": "12/2/2011 4:24:36 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 164,
+    "Code": "L5B",
+    "Description": "Estimated Value, less than 5x blank",
+    "LastModified": "3/16/2016 1:04:25 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 165,
+    "Code": "LAC",
+    "Description": "No Result Reported, lab accident",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 222,
+    "Code": "LBF",
+    "Description": "Lab Failed, sample not analyzed",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 99,
+    "Code": "LBJQC",
+    "Description": "Estimated value, greater than quantitation limit, compound also detected in LRB, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 114,
+    "Code": "LICC",
+    "Description": "Initial calibration criteria not met – low",
+    "LastModified": "4/9/2015 9:10:23 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 217,
+    "Code": "LIS",
+    "Description": "Lab internal standard(s) added to sample.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 100,
+    "Code": "LJHQC",
+    "Description": "Estimated value, greater than quantitation limit, holding time exceeded, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 101,
+    "Code": "LJQC",
+    "Description": "Estimated value, greater than quantitation limit and QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 20,
+    "Code": "LL",
+    "Description": "True bacterial concentration is assumed to be greater than the reported value.",
+    "LastModified": "8/28/2009 5:04:50 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 28,
+    "Code": "LLBL",
+    "Description": "low labeled compound recovery in sample, estimated value",
+    "LastModified": "5/19/2010 11:24:47 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 29,
+    "Code": "LLRO",
+    "Description": "low labeled compound recovery in the OPR (or LCS), estimated value",
+    "LastModified": "5/19/2010 11:24:47 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 218,
+    "Code": "LLS",
+    "Description": "Value less than lower quality control standard.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 121,
+    "Code": "LMSD",
+    "Description": "Matrix spike duplicate acceptance criteria not met – low",
+    "LastModified": "4/9/2015 9:10:26 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 30,
+    "Code": "LMSR",
+    "Description": "low matrix spike recovery, potential low bias",
+    "LastModified": "5/19/2010 11:24:47 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 547,
+    "Code": "LMSRU",
+    "Description": "low matrix spike recovery, potential low bias.  Result is less than the MDL.",
+    "LastModified": "8/29/2018 4:22:53 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 102,
+    "Code": "LNJQC",
+    "Description": "Estimated value, greater than quantitation limit, presumptive evidence of nontarget compound, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 31,
+    "Code": "LNRO",
+    "Description": "low native analyte recovery in OPR (or LCS), potential low bias",
+    "LastModified": "5/19/2010 11:24:47 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 166,
+    "Code": "LOB",
+    "Description": "Likely Biased Low",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 32,
+    "Code": "LOPR",
+    "Description": "low OPR (or LCS) recovery, potential low bias",
+    "LastModified": "5/19/2010 11:24:47 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 117,
+    "Code": "LSSR",
+    "Description": "Surrogate standard acceptance criteria not met – low",
+    "LastModified": "4/9/2015 9:10:24 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 33,
+    "Code": "LVER",
+    "Description": "low calibration verification standard recovery, potential low bias",
+    "LastModified": "5/19/2010 11:24:47 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 167,
+    "Code": "LXB",
+    "Description": "Estimated Value, between 5-10x blank",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 168,
+    "Code": "M6F",
+    "Description": "More Than 6 Flags Applied",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 119,
+    "Code": "MSR",
+    "Description": "Matrix spike acceptance criteria not met",
+    "LastModified": "4/9/2015 9:10:25 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 34,
+    "Code": "MTRX",
+    "Description": "possible matrix interference, estimated value",
+    "LastModified": "5/19/2010 11:24:47 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 67,
+    "Code": "N",
+    "Description": "Presumptive evidence of a nontarget compound",
+    "LastModified": "8/22/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 290,
+    "Code": "NA",
+    "Description": "Not Applicable",
+    "LastModified": "11/14/2016 2:52:56 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 169,
+    "Code": "NAI",
+    "Description": "No Result Reported, interference",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 103,
+    "Code": "NB",
+    "Description": "Presumptive evidence of non-target compound; detected in blank",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 104,
+    "Code": "NBJQC",
+    "Description": "Estimated value, presumptive evidence of nontarget compound, compound also detected in LRB, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 387,
+    "Code": "NFNSI",
+    "Description": "While comparison of nutrient fractions (e.g. filtered > unfiltered) or nutrient species (e.g. PO4 > TP) results are not consistent, the results are within precision limits and are analytically equal.",
+    "LastModified": "11/20/2017 7:46:40 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 407,
+    "Code": "NFNSU",
+    "Description": "Comparison of nutrient fractions (e.g. filtered > unfiltered) or nutrient species (e.g. PO4 > TP) are not consistent. Results fall outside the normal limits of variability and do not meet Data Quality Objectives. Reanalyses were performed with consistent results. All QA limits and results were valid",
+    "LastModified": "11/27/2017 10:27:06 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 170,
+    "Code": "NHS",
+    "Description": "Non-homogenous sample",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 110,
+    "Code": "NJ",
+    "Description": "Estimated value, presumptive evidence of nontarget compound",
+    "LastModified": "3/17/2015 9:14:37 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 105,
+    "Code": "NJHT",
+    "Description": "Estimated value, presumptive evidence of nontarget compound, holding time exceeded",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 106,
+    "Code": "NJQC",
+    "Description": "Estimated value, presumptive evidence of nontarget compound, QC problems",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 107,
+    "Code": "NL",
+    "Description": "Estimated value, presumptive evidence of nontarget compound, greater than quantitation limit",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 36,
+    "Code": "NLBL",
+    "Description": "no labeled compound recovery in sample, rejected",
+    "LastModified": "5/19/2010 11:24:47 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 37,
+    "Code": "NLRO",
+    "Description": "no labeled compound recovery in OPR (or LCS), rejected",
+    "LastModified": "5/19/2010 11:24:47 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 487,
+    "Code": "NMSR",
+    "Description": "no matrix spike recovery, rejected",
+    "LastModified": "3/8/2018 10:57:44 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 190,
+    "Code": "NN",
+    "Description": "authentic recovery is not within method/contract control limits",
+    "LastModified": "6/15/2016 1:28:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 115,
+    "Code": "NRO",
+    "Description": "Control sample acceptance criteria not met",
+    "LastModified": "4/9/2015 9:10:24 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 291,
+    "Code": "NRP",
+    "Description": "No Result Possible",
+    "LastModified": "11/14/2016 2:52:56 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 171,
+    "Code": "NRR",
+    "Description": "No Result Reported, other",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 172,
+    "Code": "NSQ",
+    "Description": "No Result Reported, insufficient quantity of sample",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 173,
+    "Code": "OA3",
+    "Description": "Outlier, across stations",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 174,
+    "Code": "OS3",
+    "Description": "Outlier, single station",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 175,
+    "Code": "OTHER",
+    "Description": "Other",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 220,
+    "Code": "OUT",
+    "Description": "Result value is defined as an outlier by data owner",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 527,
+    "Code": "PBH",
+    "Description": "Estimated value, continuous probe biased high             Quality control measures failed high at audit check during deployment. Could include pre, mid or post deployment check.",
+    "LastModified": "6/11/2018 8:13:07 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 528,
+    "Code": "PBL",
+    "Description": "Estimated value, continuous probe biased low                    Quality control measures failed low at audit check during deployment. Could include pre, mid or post deployment check.",
+    "LastModified": "6/11/2018 8:14:39 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 176,
+    "Code": "PNQ",
+    "Description": "No Quantifiable Result Reported",
+    "LastModified": "3/16/2016 1:04:26 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 177,
+    "Code": "PPD",
+    "Description": "Spiked Blank Duplicate, failed",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 219,
+    "Code": "PRE",
+    "Description": "Presumptive evidence that analyte is present.",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 77,
+    "Code": "Q",
+    "Description": "The result did not pass the lab quality checks and there was an insufficient amount of the sample for re-analysis.",
+    "LastModified": "11/25/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 178,
+    "Code": "QCI",
+    "Description": "Quality Control incomplete",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 2,
+    "Code": "R",
+    "Description": "Rejected: The sample results are unusable due to the quality of the data generated because certain criteria were not met. The analyte may or may not be present in the sample.",
+    "LastModified": "8/11/2006 11:50:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 179,
+    "Code": "REX",
+    "Description": "Re-Prepared",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 180,
+    "Code": "RIN",
+    "Description": "Re-Analyzed",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 181,
+    "Code": "RLRS",
+    "Description": "Reporting limit raised, low total solids",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 42,
+    "Code": "RMAX",
+    "Description": "result is a maximum value",
+    "LastModified": "5/19/2010 11:24:48 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 43,
+    "Code": "RNAF",
+    "Description": "result not affected by noted QC issue",
+    "LastModified": "5/19/2010 11:24:48 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 45,
+    "Code": "RNON",
+    "Description": "result reported as non-detect due to blank contamination",
+    "LastModified": "5/19/2010 11:24:48 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 46,
+    "Code": "RPDX",
+    "Description": "RPD is MS/MSD pair exceeds criterion, estimated value",
+    "LastModified": "5/19/2010 11:24:48 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 203,
+    "Code": "RPO",
+    "Description": "% RPD outside of acceptable limits",
+    "LastModified": "7/6/2016 4:04:47 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 204,
+    "Code": "RPON",
+    "Description": "% RPD outside of acceptable limits.  Presumptive evidence of a nontarget compound.",
+    "LastModified": "7/6/2016 4:04:47 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 347,
+    "Code": "RRUDL",
+    "Description": "Lab reported a result value, however the lab's detection limit is not known/available for validation or comparison to the result.",
+    "LastModified": "10/25/2017 7:44:08 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 309,
+    "Code": "RSM",
+    "Description": "Value verified by rerun, same method (USGS)",
+    "LastModified": "4/12/2017 3:14:21 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 182,
+    "Code": "SBB",
+    "Description": "Estimated Value, less than blank",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 183,
+    "Code": "SCA",
+    "Description": "Suspected Contamination, lab analysis",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 184,
+    "Code": "SCF",
+    "Description": "Suspected Contamination, field",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 185,
+    "Code": "SCP",
+    "Description": "Suspected Contamination, lab preparation",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 186,
+    "Code": "SCX",
+    "Description": "Suspected Contamination, unknown",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 226,
+    "Code": "SD%EL",
+    "Description": "MS/MSD RPD exceeds control limits",
+    "LastModified": "10/27/2016 7:54:50 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 367,
+    "Code": "SD%SS",
+    "Description": "MS/MSD RPD exceeds control limits due to sample size difference. (TestAmerica Laboratory with a qualifier code of 'F4')",
+    "LastModified": "11/13/2017 12:46:57 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 225,
+    "Code": "SDROL",
+    "Description": "MS and/or MSD Recovery is outside acceptance limits",
+    "LastModified": "10/27/2016 7:54:50 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 187,
+    "Code": "SLB",
+    "Description": "Spike level low compared to background",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 116,
+    "Code": "SSR",
+    "Description": "Surrogate standard acceptance criteria not met",
+    "LastModified": "4/9/2015 9:10:24 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 221,
+    "Code": "SUS",
+    "Description": "Result value is defined as suspect by data owner",
+    "LastModified": "8/30/2016 4:56:40 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 108,
+    "Code": "T",
+    "Description": "Hardness by Calculation Method - Standard Methods 2340B - 19th Ed",
+    "LastModified": "9/3/2014 12:00:00 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 112,
+    "Code": "TOC",
+    "Description": "Temperature outside of criteria",
+    "LastModified": "4/9/2015 9:10:23 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 192,
+    "Code": "TT",
+    "Description": "analyte recalculated against alternate labeled compound(s)",
+    "LastModified": "6/15/2016 1:28:59 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 3,
+    "Code": "U",
+    "Description": "Not Detected: The analyte was analyzed for, but was not detected at a level greater than or equal to the level of the adjusted Contract Required Quantitation Limit (CRQL) for sample and method.",
+    "LastModified": "8/11/2006 11:50:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 79,
+    "Code": "UB",
+    "Description": "The analyte was detected in the\n sample and in either the associated\n laboratory blank or field blank. If\n detected below the reporting limit\n (RL) the analyte result was reported\n as non-detected. If detected\n above the RL, the analyte result was\n reported as non-detected.",
+    "LastModified": "2/19/2016 8:41:24 AM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 432,
+    "Code": "UD",
+    "Description": "U D; Not Detected.  Dilution required.",
+    "LastModified": "6/21/2018 12:45:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 8,
+    "Code": "UH",
+    "Description": "Not Detected: The analyte was analyzed for, but was not detected at a level greater than or equal to the level of the adjusted Contract Required Quantitation Limit (CRQL) for sample and method. Holding time exceeded.",
+    "LastModified": "5/14/2009 2:21:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 4,
+    "Code": "UJ",
+    "Description": "Not Detected/Estimated: The analyte was not detected at a level greater than or equal to the adjusted CRQL or the reported adjusted CRQL is approximate and may be inaccurate or imprecise.",
+    "LastModified": "8/11/2006 11:50:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 188,
+    "Code": "UNC",
+    "Description": "Value Not Confirmed",
+    "LastModified": "3/16/2016 1:04:27 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 78,
+    "Code": "UQ",
+    "Description": "Not Detected: The analyte was not detected at a level >= to the Reporting Level for the analysis. Also, the result did not pass the lab quality checks and there was an insufficient amount of the sample for re-analysis.",
+    "LastModified": "11/25/2013 1:44:00 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 587,
+    "Code": "UREJ",
+    "Description": "Value below the detection Limit. Rejected: The sample results are unusable due to the quality of the data generated because certain criteria were not met. The analyte may or may not be present in the sample",
+    "LastModified": "10/31/2018 1:39:45 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 310,
+    "Code": "Z",
+    "Description": "Value verified by rerun, 2nd method (USGS)",
+    "LastModified": "4/12/2017 3:14:21 PM"
+  },
+  {
+    "Domain": "Result Measure Qualifier(MeasureQualifierCode)",
+    "ID": 311,
+    "Code": "^",
+    "Description": "Yield outside of contractual acceptable range (USGS)",
+    "LastModified": "4/12/2017 3:14:21 PM"
+  }
+]
